@@ -1,0 +1,18 @@
+ORDENANZA REGIONAL
+Nº 021-2009-GRSM/CR
+Moyobamba, 27 de junio del 2009
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de San Martín, en Sesión Extraordinaria, de fecha 27 de Junio del 2009, aprobó por unanimidad la siguiente Ordenanza Regional;
+CONSIDERANDO:
+Que, el artículo 191º de la Constitución Política del Perú modificada por Ley Nº 27680, Ley de Reforma Constitucional del Capítulo XIV del Título IV sobre Descentralización, establece que los Gobiernos Regionales tienen autonomía política, económica y administrativa en los asuntos de su competencia;
+Que, el artículo 1º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, establece la estructura, organización, competencia y funciones de los Gobiernos Regionales. Define la organización democrática y desconcentrada del Gobierno Regional conforme a la Constitución Política del Perú y la Ley de Bases de la Descentralización;
+Que, el artículo 4º del mismo cuerpo legal, prescribe en cuanto a la finalidad de los Gobiernos Regionales fomentar el desarrollo regional integral sostenible, promoviendo la inversión pública y privada y el empleo y garantizar el ejercicio pleno de los derechos y la igualdad de oportunidades de sus habitantes, de acuerdo con los planes y programas nacionales, regionales y locales de desarrollo;
+Que, en la estructura organizacional de los Gobiernos Regionales, se ha instituido al Consejo Regional como el órgano normativo y fiscalizador del Gobierno Regional, teniendo como una de sus atribuciones, el aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional, encontrándose plasmadas su facultad, atribuciones, derechos y obligaciones en los artículos 15º, 16º y 17º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales;
+Que, el inciso c) del artículo 36º de la Ley Nº 27783, Ley de Bases de la Descentralización, establece competencias compartidas para la promoción, gestión, regulación de actividades económicas y productivas en su ámbito y nivel;
+Que, el “Festival de Cacao y Chocolate”, es una festividad que se realiza en la provincia de Mariscal Cáceres – Juanjui anualmente, en el marco de la semana turística que se desarrolla del 26 de junio al 3 de julio;
+Que, el “Festival del Cacao y Chocolate” tiene como objetivo principal, reconocer y valorar a los productores varones y mujeres de la actividad cacaotera promoviendo así el desarrollo del cultivo en la región para generar una economía sostenible;
+Que, el Informe Legal Nº 302-2009-GRSM/ORAL, de fecha 17 de Junio del 2009, la Oficina Regional de Asesoría Legal, emite opinión favorable para que se institucionalice el “Festival del Cacao y Chocolate en la Región San Martín”.
+Que, en reunión conjunta de fecha 25 de Junio del presente año, la Comisión de Desarrollo Económico del Consejo Regional, acordó favorable el proyecto de Ordenanza Regional y derivo el presente al Pleno del Consejo Regional para el debate correspondiente;
+Que, el literal o) del Artículo 21º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, la cual establece que es atribución del Presidente Regional, promulgar Ordenanzas Regionales o hacer uso de su derecho a observarlas en el plazo de quince (15) días hábiles y ejecutar los acuerdos del Consejo Regional;
+Que, el Artículo 38º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, establece que las Ordenanzas Regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional y reglamentan materias de su competencia;
+Se ha aprobado la siguiente ORDENANZA REGIONAL:
