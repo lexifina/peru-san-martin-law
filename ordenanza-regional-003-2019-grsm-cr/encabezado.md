@@ -1,0 +1,10 @@
+ORDENANZA REGIONAL
+Nº 003-2019-GRSM/CR
+Moyobamba, 7 de mayo del 2019
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de San Martín, de conformidad con lo previsto en los artículos 197º y 198º de la Constitución Política del Perú – modificado por la Ley de Reforma Constitucional sobre Descentralización, Ley Nº 27680; - Ley de Bases de la Descentralización, Ley Nº 27783; Ley Orgánica de Gobiernos Regionales, Ley Nº 27867 y su modificatoria Ley Nº 27902, Ley Nº 28013; Reglamento Interno del Gobierno Regional de San Martín; y demás normas complementarias; y,
+CONSIDERANDO:
+Que, el artículo 2º de la Ley Nº 27867 Ley Orgánica de Gobiernos Regionales establece que los Gobiernos Regionales emanan de la voluntad popular, son personas jurídicas de derecho público, con autonomía Político, económico y administrativa en asuntos de su competencia constituye poro su administración económica financiera un Pliego Presupuestal;
+Que, mmediante Resolución Ejecutiva Regional Nº 330-2006-GRSM/PGR, de fecha 07 de junio de 2006, se resuelve aprobar el Manual de Organización y Funciones – MOF de la Sede Central del Gobierno Regional San Martín, con la finalidad de describir la estructura, funciones generales y específicas de los órganos estructurados y de los cargos; delimitando la amplitud, naturaleza y campo de acción. Precisa además la interrelación jerárquica, de modo que se convertirá en un documento normativo que permitirá al personal conocer con claridad sus deberes y responsabilidades del cargo que le ha sido asignado;
+Que, a través de Ordenanza Regional Nº 016-2012-GRSM/CR, de fecha 19 de setiembre de 2012, se aprueba el Clasificador de Cargos del Gobierno Regional San Martín, debido a la necesidad e importancia de que todos los cargos al interior de la institución se encuentren debidamente ordenados y clasificados según las funciones, requisitos y niveles de responsabilidad que le corresponden;
+Que, con Resolución Ejecutiva Regional Nº 1279-2014-GRSM/PGR, de fecha 01 de octubre de 2014, se resuelve:

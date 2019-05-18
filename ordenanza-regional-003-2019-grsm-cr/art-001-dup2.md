@@ -1,0 +1,1 @@
+Artículo Primero.- APROBAR la actualización y/o reestructuración de todos los instrumentos de gestión del Gobierno Regional San Martín, para el fortalecimiento y la modernización institucional a través de sus documentos de gestión.
