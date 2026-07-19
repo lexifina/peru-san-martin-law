@@ -1,0 +1,1 @@
+Artículo Segundo.- ENCARGAR el cumplimiento e implementación de la presente ordenanza al gobernador regional del Gobierno Regional de San Martín en coordinación con la Gerencia General Regional, Gerencia Regional de Desarrollo Económico y la Dirección Regional de la Producción San Martín.
