@@ -281,20 +281,51 @@ para las Personas Adultas Mayores en el ámbito del Gobierno Regional San Martí
 | `ordenanza-regional-025-2011-grsm-cr` | Ordenanza Regional N° 025-2011-GRSM/CR: Derogan Ordenanza N° 029-2009-GRSM/CR y aprueban nuevo Reglamento Interno del Consejo Regional de San Martín - 2011 | 1 | 2011-10-29 to 2011-10-29 |
 | `ordenanza-regional-018-2011-grsm-cr` | Ordenanza Regional N° 018-2011-GRSM/CR: Derogan Ordenanza N° 029-2008-GRSM/CR y crean el Comité Consultivo Regional de Turismo de San Martín | 1 | 2011-10-16 to 2011-10-16 |
 | `ordenanza-regional-016-2011-grsm-cr` | Ordenanza Regional N° 016-2011-GRSM/CR: Aprueban el "Plan Regional de Igualdad de Oportunidades (PRIO) 2011-2015" | 1 | 2011-09-11 to 2011-09-11 |
+| `ordenanza-regional-009-2011-grsm-cr` | Ordenanza Regional N° 009-2011-GRSM/CR: Aprueban el "Plan Regional de la Juventud de San Martín 2011-2014" | 1 | 2011-09-04 to 2011-09-04 |
+| `ordenanza-regional-021-2011-grsm-cr` | Ordenanza Regional N° 021-2011-GRSM/CR: Aprueban Reglamento de Fiscalización de las Actividades Mineras para la Pequeña Minería, Minería Artesanal y Minería Ilegal | 1 | 2011-08-26 to 2011-08-26 |
+| `ordenanza-regional-022-2011-grsm-cr` | Ordenanza Regional N° 022-2011-GRSM/CR: Aprueban incorporar el Procedimiento "Establecimiento de Servidumbre (Distribución hasta 30 MW y Generación RER hasta 10 MW)" al TUPA de la Dirección Regional de Energía y Minas de San Martín | 1 | 2011-08-26 to 2011-08-26 |
+| `ordenanza-regional-032-2010-grsm-cr` | Ordenanza Regional N° 032-2010-GRSM/CR: Declaran de Interés Regional y Necesidad Pública la protección de la Cuenca del Huayabamba como Zona Restringida para la actividad minera y petrolera, así como para la ocupación de asentamientos humanos | 1 | 2010-12-28 to 2010-12-28 |
+| `ordenanza-regional-019-2010-grsm-cr` | Ordenanza Regional N° 019-2010-GRSM/CR: Modifican artículos de la Ordenanza Regional N° 036-2008-GRSM/CR y aprueban el Reglamento del Plan de Desarrollo Ganadero para la Región San Martín 2007-2016 | 1 | 2010-12-25 to 2010-12-25 |
+| `ordenanza-regional-037-2010-grsm-cr` | Ordenanza Regional N° 037-2010-GRSM/CR: Aprueban Reglamento de Organización y Funciones del Gobierno Regional San Martín | 1 | 2010-12-25 to 2010-12-25 |
+| `ordenanza-regional-015-2010-grsm-cr` | Ordenanza Regional N° 015-2010-GRSM/CR: Disponen que archivos notariales del departamento de San Martín cuyos titulares cesen o fallezcan, serán transferidos después de dos años al Archivo Regional de San Martín | 1 | 2010-12-25 to 2010-12-25 |
+| `ordenanza-regional-023-2010-grsm-cr` | Ordenanza Regional N° 023-2010-GRSM/CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional Agraria - San Martín | 1 | 2010-11-12 to 2010-11-12 |
+| `ordenanza-regional-025-2010-grsm-cr` | Ordenanza Regional N° 025-2010-GRSM/CR: Amplían y modifican el TUPA y la Guía de Servicios de la Dirección Regional Agraria de San Martín | 1 | 2010-11-12 to 2010-11-12 |
+| `ordenanza-regional-028-2010-grsm-cr` | Ordenanza Regional N° 028-2010-GRSM/CR: Aprueban Plan Regional de Electrificación Rural con Energías Renovables 2010 - 2014 | 1 | 2010-10-25 to 2010-10-25 |
+| `ordenanza-regional-029-2010-grsm-cr` | Ordenanza Regional N° 029-2010-GRSM/CR: Modifican el Texto Único de Procedimientos Administrativos y la Guía de Servicios 2010 de la Dirección Reginal de Transportes y Comunicaciones de San Martín | 1 | 2010-10-18 to 2010-10-18 |
+| `ordenanza-regional-017-2010-grsm-cr` | Ordenanza Regional N° 017-2010-GRSM/CR: Modifican Texto Único de Procedimientos Administrativos de la Dirección Regional de La Producción de San Martín | 1 | 2010-10-04 to 2010-10-04 |
+| `ordenanza-regional-020-2010-grsm-cr` | Ordenanza Regional N° 020-2010-GRSM/CR: Aprueban Manual de Operaciones y Cuadro de Recursos Humanos del Proyecto Especial Huallaga Central y Bajo Mayo | 1 | 2010-08-30 to 2010-08-30 |
+| `ordenanza-regional-001-2010-grsm-cr` | Ordenanza Regional N° 001-2010-GRSM/CR: Aprueban Reglamento de Organización y Funciones de la Unidad Ejecutora San Martín, creada para la ejecución del Programa de Desarrollo Agroambiental en la Ceja de Selva - PROCEJA | 1 | 2010-07-25 to 2010-07-25 |
+| `ordenanza-regional-010-2010-grsm-cr` | Ordenanza Regional N° 010-2010-GRSM/CR: Aprueban la adecuación administrativa regional  de la Gerencia Regional de Desarrollo Social a la Gerencia Regional de Desarrollo Económico del Gobierno Regional de San Martín, en el marco de transferencia de funciones en materia de Micro y Pequeña Empresa | 1 | 2010-07-18 to 2010-07-18 |
+| `ordenanza-regional-013-2010-grsm-cr` | Ordenanza Regional N° 013-2010-GRSM/CR: Aprueban Texto Único de Procedimientos Administrativos - TUPA 2010, de la Dirección Regional de Energía y Minas de San Martín | 1 | 2010-07-11 to 2010-07-11 |
+| `ordenanza-regional-009-2010-grsm-cr` | Ordenanza Regional N° 009-2010-GRSM/CR: Aprueban propuesta de Modificación del CAP del Proyecto Especial Alto Mayo (PEAM) | 1 | 2010-05-13 to 2010-05-13 |
+| `ordenanza-regional-007-2010-grsm-cr` | Ordenanza Regional N° 007-2010-GRSM/CR: Declaran intangibilidad de fajas marginales de la Subcuenca del río Cumbaza y sus tributarios, y prohiben la realización de actividades esporádicas o permanentes que limiten su uso público | 1 | 2010-04-18 to 2010-04-18 |
+| `ordenanza-regional-043-2009-grsm-cr` | Ordenanza Regional N° 043-2009-GRSM/CR: Constituyen la Mancomunidad Regional Amazonas - San Martín - La Libertad | 1 | 2010-02-01 to 2010-02-01 |
+| `ordenanza-regional-041-2009-grsm-cr` | Ordenanza Regional N° 041-2009-GRSM/CR: Conforman la Mesa de Diálogo para la implementación de acciones necesarias en actos relacionados con las Comunidades Nativas | 1 | 2010-02-01 to 2010-02-01 |
+| `ordenanza-regional-021-2009-grsm-cr` | Ordenanza Regional N° 021-2009-GRSM/CR: Institucionalizan el Festival del Cacao y Chocolate en la Región San Martín con sede en la provincia de Mariscal Cáceres - Juanjuí | 1 | 2010-01-02 to 2010-01-02 |
+| `ordenanza-regional-034-2009-grsm-cr` | Ordenanza Regional N° 034-2009-GRSM/CR: Incorporan a la Oficina del Área de Conservación Regional "Cordillera Escalera" en la estructura orgánica del Proyecto Especial Huallaga Central y Bajo Mayo | 1 | 2009-12-16 to 2009-12-16 |
+| `ordenanza-regional-030-2009-grsm-cr` | Ordenanza Regional N° 030-2009-GRSM/CR: Aprueban Reglamento de Organización y Funciones del Proyecto Especial Alto Mayo - PEAM | 1 | 2009-11-29 to 2009-11-29 |
+| `ordenanza-regional-020-2009-grsm-cr` | Ordenanza Regional N° 020-2009-GRSM/CR: Aprueban Reglamento de Organización y Funciones - ROF 2009 de la Dirección Regional de Transportes y Comunicaciones de San Martín | 1 | 2009-09-12 to 2009-09-12 |
+| `ordenanza-regional-018-2009-grsm-cr` | Ordenanza Regional N° 018-2009-GRSM/CR: Precisan conformación del Consejo Regional de Seguridad Vial de San Martín CORSEV-SM | 1 | 2009-08-29 to 2009-08-29 |
+| `ordenanza-regional-012-2009-grsm-cr` | Ordenanza Regional N° 012-2009-GRSM/CR: Implementan la Estrategia Regional CRECER denominada "CRECER San Martín, Sembrando Futuro" | 1 | 2009-07-26 to 2009-07-26 |
+| `ordenanza-regional-025-2009-grsm-cr` | Ordenanza Regional N° 025-2009-GRSM/CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional Agraria - San Martín | 1 | 2009-07-22 to 2009-07-22 |
+| `ordenanza-regional-020-2008-grsm-cr` | Ordenanza Regional N° 020-2008-GRSM/CR: Aprueban el "Plan de Electrificación Rural Regional 2008 - 2017" | 1 | 2009-06-18 to 2009-06-18 |
+| `ordenanza-regional-001-2009-grsm-cr` | Ordenanza Regional N° 001-2009-GRSM/CR: Modifican la Ordenanza N° 016-2004-GRSM/CR mediante la cual se aprobó la creación del Consejo Regional de la Juventud de San Martín | 1 | 2009-05-28 to 2009-05-28 |
+| `ordenanza-regional-004-2009-grsm-cr` | Ordenanza Regional N° 004-2009-GRSM/CR: Modifican la Ordenanza N° 034-2008-GRSM/CR que aprobó el TUPA 2008 de la Dirección Regional de Transportes y Comunicaciones de San Martín | 1 | 2009-05-03 to 2009-05-03 |
+| `ordenanza-regional-003-2009-grsm-cr` | Ordenanza Regional N° 003-2009-GRSM/CR: Aprueban Plan Vial Departamental Participativo 2009 - 2018 de la Región San Martín | 1 | 2009-05-03 to 2009-05-03 |
 
-The build made 262 commits:
+The build made 293 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 262 | first version of an act |
+| 293 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 262 laws in the record.
-- 524 tags.
+- 293 laws in the record.
+- 586 tags.
 
 ## Dates
 
@@ -306,7 +337,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `b78e87c4680f7f4fcc2241f083a76c59296d18c4551da7045341759ca61330e4` (3983863 bytes).
+- Corpus: sha256 `db359b3d669512d1aa024edf98d16d8e0bc98f3b24158f2abb71457b65d243f1` (4299036 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 

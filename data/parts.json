@@ -306,6 +306,42 @@
     "ordenanza-regional-031-2011-grsm-cr"
    ],
    "sha256": "b77e1b3aceee8197e0222adbfe698f5c4bf7fe7a28db20ca7b4d212402417f3d"
+  },
+  "33-runner-03.json": {
+   "acts": [
+    "ordenanza-regional-001-2009-grsm-cr",
+    "ordenanza-regional-001-2010-grsm-cr",
+    "ordenanza-regional-003-2009-grsm-cr",
+    "ordenanza-regional-004-2009-grsm-cr",
+    "ordenanza-regional-007-2010-grsm-cr",
+    "ordenanza-regional-009-2010-grsm-cr",
+    "ordenanza-regional-009-2011-grsm-cr",
+    "ordenanza-regional-010-2010-grsm-cr",
+    "ordenanza-regional-012-2009-grsm-cr",
+    "ordenanza-regional-013-2010-grsm-cr",
+    "ordenanza-regional-015-2010-grsm-cr",
+    "ordenanza-regional-017-2010-grsm-cr",
+    "ordenanza-regional-018-2009-grsm-cr",
+    "ordenanza-regional-019-2010-grsm-cr",
+    "ordenanza-regional-020-2008-grsm-cr",
+    "ordenanza-regional-020-2009-grsm-cr",
+    "ordenanza-regional-020-2010-grsm-cr",
+    "ordenanza-regional-021-2009-grsm-cr",
+    "ordenanza-regional-021-2011-grsm-cr",
+    "ordenanza-regional-022-2011-grsm-cr",
+    "ordenanza-regional-023-2010-grsm-cr",
+    "ordenanza-regional-025-2009-grsm-cr",
+    "ordenanza-regional-025-2010-grsm-cr",
+    "ordenanza-regional-028-2010-grsm-cr",
+    "ordenanza-regional-029-2010-grsm-cr",
+    "ordenanza-regional-030-2009-grsm-cr",
+    "ordenanza-regional-032-2010-grsm-cr",
+    "ordenanza-regional-034-2009-grsm-cr",
+    "ordenanza-regional-037-2010-grsm-cr",
+    "ordenanza-regional-041-2009-grsm-cr",
+    "ordenanza-regional-043-2009-grsm-cr"
+   ],
+   "sha256": "58bbf021a008789194643391cfdcdf24659df561e9e6169dc314d8f8e1e5c467"
   }
  },
  "schema": 1

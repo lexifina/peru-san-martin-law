@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-262 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+293 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -278,6 +278,37 @@ para las Personas Adultas Mayores en el ámbito del Gobierno Regional San Martí
 | `ordenanza-regional-025-2011-grsm-cr/` | Ordenanza Regional N° 025-2011-GRSM/CR: Derogan Ordenanza N° 029-2009-GRSM/CR y aprueban nuevo Reglamento Interno del Consejo Regional de San Martín - 2011 | in force 29 October 2011 |
 | `ordenanza-regional-018-2011-grsm-cr/` | Ordenanza Regional N° 018-2011-GRSM/CR: Derogan Ordenanza N° 029-2008-GRSM/CR y crean el Comité Consultivo Regional de Turismo de San Martín | in force 16 October 2011 |
 | `ordenanza-regional-016-2011-grsm-cr/` | Ordenanza Regional N° 016-2011-GRSM/CR: Aprueban el "Plan Regional de Igualdad de Oportunidades (PRIO) 2011-2015" | in force 11 September 2011 |
+| `ordenanza-regional-009-2011-grsm-cr/` | Ordenanza Regional N° 009-2011-GRSM/CR: Aprueban el "Plan Regional de la Juventud de San Martín 2011-2014" | in force 4 September 2011 |
+| `ordenanza-regional-021-2011-grsm-cr/` | Ordenanza Regional N° 021-2011-GRSM/CR: Aprueban Reglamento de Fiscalización de las Actividades Mineras para la Pequeña Minería, Minería Artesanal y Minería Ile… | in force 26 August 2011 |
+| `ordenanza-regional-022-2011-grsm-cr/` | Ordenanza Regional N° 022-2011-GRSM/CR: Aprueban incorporar el Procedimiento "Establecimiento de Servidumbre (Distribución hasta 30 MW y Generación RER hasta 10… | in force 26 August 2011 |
+| `ordenanza-regional-032-2010-grsm-cr/` | Ordenanza Regional N° 032-2010-GRSM/CR: Declaran de Interés Regional y Necesidad Pública la protección de la Cuenca del Huayabamba como Zona Restringida para la… | in force 28 December 2010 |
+| `ordenanza-regional-019-2010-grsm-cr/` | Ordenanza Regional N° 019-2010-GRSM/CR: Modifican artículos de la Ordenanza Regional N° 036-2008-GRSM/CR y aprueban el Reglamento del Plan de Desarrollo Ganader… | in force 25 December 2010 |
+| `ordenanza-regional-037-2010-grsm-cr/` | Ordenanza Regional N° 037-2010-GRSM/CR: Aprueban Reglamento de Organización y Funciones del Gobierno Regional San Martín | in force 25 December 2010 |
+| `ordenanza-regional-015-2010-grsm-cr/` | Ordenanza Regional N° 015-2010-GRSM/CR: Disponen que archivos notariales del departamento de San Martín cuyos titulares cesen o fallezcan, serán transferidos de… | in force 25 December 2010 |
+| `ordenanza-regional-023-2010-grsm-cr/` | Ordenanza Regional N° 023-2010-GRSM/CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional Agraria - San Martín | in force 12 November 2010 |
+| `ordenanza-regional-025-2010-grsm-cr/` | Ordenanza Regional N° 025-2010-GRSM/CR: Amplían y modifican el TUPA y la Guía de Servicios de la Dirección Regional Agraria de San Martín | in force 12 November 2010 |
+| `ordenanza-regional-028-2010-grsm-cr/` | Ordenanza Regional N° 028-2010-GRSM/CR: Aprueban Plan Regional de Electrificación Rural con Energías Renovables 2010 - 2014 | in force 25 October 2010 |
+| `ordenanza-regional-029-2010-grsm-cr/` | Ordenanza Regional N° 029-2010-GRSM/CR: Modifican el Texto Único de Procedimientos Administrativos y la Guía de Servicios 2010 de la Dirección Reginal de Transp… | in force 18 October 2010 |
+| `ordenanza-regional-017-2010-grsm-cr/` | Ordenanza Regional N° 017-2010-GRSM/CR: Modifican Texto Único de Procedimientos Administrativos de la Dirección Regional de La Producción de San Martín | in force 4 October 2010 |
+| `ordenanza-regional-020-2010-grsm-cr/` | Ordenanza Regional N° 020-2010-GRSM/CR: Aprueban Manual de Operaciones y Cuadro de Recursos Humanos del Proyecto Especial Huallaga Central y Bajo Mayo | in force 30 August 2010 |
+| `ordenanza-regional-001-2010-grsm-cr/` | Ordenanza Regional N° 001-2010-GRSM/CR: Aprueban Reglamento de Organización y Funciones de la Unidad Ejecutora San Martín, creada para la ejecución del Programa… | in force 25 July 2010 |
+| `ordenanza-regional-010-2010-grsm-cr/` | Ordenanza Regional N° 010-2010-GRSM/CR: Aprueban la adecuación administrativa regional  de la Gerencia Regional de Desarrollo Social a la Gerencia Regional de D… | in force 18 July 2010 |
+| `ordenanza-regional-013-2010-grsm-cr/` | Ordenanza Regional N° 013-2010-GRSM/CR: Aprueban Texto Único de Procedimientos Administrativos - TUPA 2010, de la Dirección Regional de Energía y Minas de San M… | in force 11 July 2010 |
+| `ordenanza-regional-009-2010-grsm-cr/` | Ordenanza Regional N° 009-2010-GRSM/CR: Aprueban propuesta de Modificación del CAP del Proyecto Especial Alto Mayo (PEAM) | in force 13 May 2010 |
+| `ordenanza-regional-007-2010-grsm-cr/` | Ordenanza Regional N° 007-2010-GRSM/CR: Declaran intangibilidad de fajas marginales de la Subcuenca del río Cumbaza y sus tributarios, y prohiben la realización… | in force 18 April 2010 |
+| `ordenanza-regional-043-2009-grsm-cr/` | Ordenanza Regional N° 043-2009-GRSM/CR: Constituyen la Mancomunidad Regional Amazonas - San Martín - La Libertad | in force 1 February 2010 |
+| `ordenanza-regional-041-2009-grsm-cr/` | Ordenanza Regional N° 041-2009-GRSM/CR: Conforman la Mesa de Diálogo para la implementación de acciones necesarias en actos relacionados con las Comunidades Nat… | in force 1 February 2010 |
+| `ordenanza-regional-021-2009-grsm-cr/` | Ordenanza Regional N° 021-2009-GRSM/CR: Institucionalizan el Festival del Cacao y Chocolate en la Región San Martín con sede en la provincia de Mariscal Cáceres… | in force 2 January 2010 |
+| `ordenanza-regional-034-2009-grsm-cr/` | Ordenanza Regional N° 034-2009-GRSM/CR: Incorporan a la Oficina del Área de Conservación Regional "Cordillera Escalera" en la estructura orgánica del Proyecto E… | in force 16 December 2009 |
+| `ordenanza-regional-030-2009-grsm-cr/` | Ordenanza Regional N° 030-2009-GRSM/CR: Aprueban Reglamento de Organización y Funciones del Proyecto Especial Alto Mayo - PEAM | in force 29 November 2009 |
+| `ordenanza-regional-020-2009-grsm-cr/` | Ordenanza Regional N° 020-2009-GRSM/CR: Aprueban Reglamento de Organización y Funciones - ROF 2009 de la Dirección Regional de Transportes y Comunicaciones de S… | in force 12 September 2009 |
+| `ordenanza-regional-018-2009-grsm-cr/` | Ordenanza Regional N° 018-2009-GRSM/CR: Precisan conformación del Consejo Regional de Seguridad Vial de San Martín CORSEV-SM | in force 29 August 2009 |
+| `ordenanza-regional-012-2009-grsm-cr/` | Ordenanza Regional N° 012-2009-GRSM/CR: Implementan la Estrategia Regional CRECER denominada "CRECER San Martín, Sembrando Futuro" | in force 26 July 2009 |
+| `ordenanza-regional-025-2009-grsm-cr/` | Ordenanza Regional N° 025-2009-GRSM/CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional Agraria - San Martín | in force 22 July 2009 |
+| `ordenanza-regional-020-2008-grsm-cr/` | Ordenanza Regional N° 020-2008-GRSM/CR: Aprueban el "Plan de Electrificación Rural Regional 2008 - 2017" | in force 18 June 2009 |
+| `ordenanza-regional-001-2009-grsm-cr/` | Ordenanza Regional N° 001-2009-GRSM/CR: Modifican la Ordenanza N° 016-2004-GRSM/CR mediante la cual se aprobó la creación del Consejo Regional de la Juventud de… | in force 28 May 2009 |
+| `ordenanza-regional-004-2009-grsm-cr/` | Ordenanza Regional N° 004-2009-GRSM/CR: Modifican la Ordenanza N° 034-2008-GRSM/CR que aprobó el TUPA 2008 de la Dirección Regional de Transportes y Comunicacio… | in force 3 May 2009 |
+| `ordenanza-regional-003-2009-grsm-cr/` | Ordenanza Regional N° 003-2009-GRSM/CR: Aprueban Plan Vial Departamental Participativo 2009 - 2018 de la Región San Martín | in force 3 May 2009 |
 
 ## Source
 

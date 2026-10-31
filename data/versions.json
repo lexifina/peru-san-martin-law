@@ -3668,6 +3668,440 @@
      "sha256": "595b503c64f2061864baaa25c91c711c8850ffd969d89a482786417fd6dd167d"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-regional-009-2011-grsm-cr",
+   "short": "Ordenanza Regional N° 009-2011-GRSM/CR",
+   "title": "Ordenanza Regional N° 009-2011-GRSM/CR: Aprueban el \"Plan Regional de la Juventud de San Martín 2011-2014\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/685198-1",
+   "versions": [
+    {
+     "from": "2011-09-04",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/05sJyQGs4gx9tkF7Kn14Sh/*/685198-1.pdf",
+     "sha256": "1fda9751adbabf61fd66143cef1f704301c73f80f0f78424d49477363724d05e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-021-2011-grsm-cr",
+   "short": "Ordenanza Regional N° 021-2011-GRSM/CR",
+   "title": "Ordenanza Regional N° 021-2011-GRSM/CR: Aprueban Reglamento de Fiscalización de las Actividades Mineras para la Pequeña Minería, Minería Artesanal y Minería Ilegal",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/681531-1",
+   "versions": [
+    {
+     "from": "2011-08-26",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4DfjaNPS4-1AcITu0h04Zo/*/681531-1.pdf",
+     "sha256": "133a797c8e1cffa2271578c851f77bb76c63b1ea37ee8a308fa2bf6cae470ff1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-022-2011-grsm-cr",
+   "short": "Ordenanza Regional N° 022-2011-GRSM/CR",
+   "title": "Ordenanza Regional N° 022-2011-GRSM/CR: Aprueban incorporar el Procedimiento \"Establecimiento de Servidumbre (Distribución hasta 30 MW y Generación RER hasta 10 MW)\" al TUPA de la Dirección Regional de Energía y Minas de San Martín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/681492-1",
+   "versions": [
+    {
+     "from": "2011-08-26",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/ENf3ucCvq2gBwnmAkuGi9J/*/681492-1.pdf",
+     "sha256": "a23c3c6be86d9ed33a37330ffcb03b0f07d8a5b3ac72d542ff052c3fda757f48"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-032-2010-grsm-cr",
+   "short": "Ordenanza Regional N° 032-2010-GRSM/CR",
+   "title": "Ordenanza Regional N° 032-2010-GRSM/CR: Declaran de Interés Regional y Necesidad Pública la protección de la Cuenca del Huayabamba como Zona Restringida para la actividad minera y petrolera, así como para la ocupación de asentamientos humanos",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/581822-1",
+   "versions": [
+    {
+     "from": "2010-12-28",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/85Lupg48qXp8zCUoP8XDbz/*/581822-1.pdf",
+     "sha256": "02f77c08d3c19e7f9ecb41ea6d6252b975f548dd5d7662c707717ce01802138b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-019-2010-grsm-cr",
+   "short": "Ordenanza Regional N° 019-2010-GRSM/CR",
+   "title": "Ordenanza Regional N° 019-2010-GRSM/CR: Modifican artículos de la Ordenanza Regional N° 036-2008-GRSM/CR y aprueban el Reglamento del Plan de Desarrollo Ganadero para la Región San Martín 2007-2016",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/581820-1",
+   "versions": [
+    {
+     "from": "2010-12-25",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CXbkCTxaa-980s7HiY5dUz/*/581820-1.pdf",
+     "sha256": "1b94f7aff11d4af01cb75bf76f5fd1e79d57634195a95e2f77fafe735bddda4b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-037-2010-grsm-cr",
+   "short": "Ordenanza Regional N° 037-2010-GRSM/CR",
+   "title": "Ordenanza Regional N° 037-2010-GRSM/CR: Aprueban Reglamento de Organización y Funciones del Gobierno Regional San Martín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/581774-1",
+   "versions": [
+    {
+     "from": "2010-12-25",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2doov0Dq4upBMnNNCP9IrG/*/581774-1.pdf",
+     "sha256": "4708e968ddf9b0e60426179a9bbbbaf73b02c6f36c31db3b23ce229383ef2350"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-015-2010-grsm-cr",
+   "short": "Ordenanza Regional N° 015-2010-GRSM/CR",
+   "title": "Ordenanza Regional N° 015-2010-GRSM/CR: Disponen que archivos notariales del departamento de San Martín cuyos titulares cesen o fallezcan, serán transferidos después de dos años al Archivo Regional de San Martín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/581772-1",
+   "versions": [
+    {
+     "from": "2010-12-25",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DE7GXkYxaqkAVYRZJ1lut1/*/581772-1.pdf",
+     "sha256": "863559bb28a3fc0e47684dcfc5a8dec8c727319696bda8f0e7a518532fc16625"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-023-2010-grsm-cr",
+   "short": "Ordenanza Regional N° 023-2010-GRSM/CR",
+   "title": "Ordenanza Regional N° 023-2010-GRSM/CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional Agraria - San Martín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/564850-1",
+   "versions": [
+    {
+     "from": "2010-11-12",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9qh4RrplKFsAUOUTu5v13j/*/564850-1.pdf",
+     "sha256": "2a3045e81c0c3d3322f59e11b5df2d1fce1d1e0ccf1d33efc9a484591904d7b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-025-2010-grsm-cr",
+   "short": "Ordenanza Regional N° 025-2010-GRSM/CR",
+   "title": "Ordenanza Regional N° 025-2010-GRSM/CR: Amplían y modifican el TUPA y la Guía de Servicios de la Dirección Regional Agraria de San Martín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/564848-1",
+   "versions": [
+    {
+     "from": "2010-11-12",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FFS_dkv_Kc7ANS4qEUSFKu/*/564848-1.pdf",
+     "sha256": "7b530373ec38ed8868155a2397091a94472d7fc113132e8be5dbe54eebc1709a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-028-2010-grsm-cr",
+   "short": "Ordenanza Regional N° 028-2010-GRSM/CR",
+   "title": "Ordenanza Regional N° 028-2010-GRSM/CR: Aprueban Plan Regional de Electrificación Rural con Energías Renovables 2010 - 2014",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/559132-1",
+   "versions": [
+    {
+     "from": "2010-10-25",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3Dssi1qiK7G9gr7QlA_WRK/*/559132-1.pdf",
+     "sha256": "1b70ac68720c13d66b63acda819368c4afb9425bc35b6e259fbe3d11630e1caf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-029-2010-grsm-cr",
+   "short": "Ordenanza Regional N° 029-2010-GRSM/CR",
+   "title": "Ordenanza Regional N° 029-2010-GRSM/CR: Modifican el Texto Único de Procedimientos Administrativos y la Guía de Servicios 2010 de la Dirección Reginal de Transportes y Comunicaciones de San Martín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/556000-1",
+   "versions": [
+    {
+     "from": "2010-10-18",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3g2mb2LWK3A9tymRTNus9H/*/556000-1.pdf",
+     "sha256": "6c747a080e41620b6f89b00026ff8400dfcbe5fea3a01f59500c6147aebedab5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-017-2010-grsm-cr",
+   "short": "Ordenanza Regional N° 017-2010-GRSM/CR",
+   "title": "Ordenanza Regional N° 017-2010-GRSM/CR: Modifican Texto Único de Procedimientos Administrativos de la Dirección Regional de La Producción de San Martín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/550876-1",
+   "versions": [
+    {
+     "from": "2010-10-04",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/C5wnWw8iKbl97SET0GgWgc/*/550876-1.pdf",
+     "sha256": "6ed35481e9b05453dca234699d11a6e0df96616981b94ec6cf46cb839268f532"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-020-2010-grsm-cr",
+   "short": "Ordenanza Regional N° 020-2010-GRSM/CR",
+   "title": "Ordenanza Regional N° 020-2010-GRSM/CR: Aprueban Manual de Operaciones y Cuadro de Recursos Humanos del Proyecto Especial Huallaga Central y Bajo Mayo",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/536447-1",
+   "versions": [
+    {
+     "from": "2010-08-30",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DZZrPShJqSz9J-3lhzhpKF/*/536447-1.pdf",
+     "sha256": "bc587a94c76dcbe86617abc05ed4623fbf6d1b18fa1425abf6cd458e91d98e3b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-001-2010-grsm-cr",
+   "short": "Ordenanza Regional N° 001-2010-GRSM/CR",
+   "title": "Ordenanza Regional N° 001-2010-GRSM/CR: Aprueban Reglamento de Organización y Funciones de la Unidad Ejecutora San Martín, creada para la ejecución del Programa de Desarrollo Agroambiental en la Ceja de Selva - PROCEJA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/522701-1",
+   "versions": [
+    {
+     "from": "2010-07-25",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1Grf2m8KqZ9BvuH9cZc8cc/*/522701-1.pdf",
+     "sha256": "e240d119a36fe7e773d337c4a58d67bec86d6b210d64c283f97871f5fe643a41"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-010-2010-grsm-cr",
+   "short": "Ordenanza Regional N° 010-2010-GRSM/CR",
+   "title": "Ordenanza Regional N° 010-2010-GRSM/CR: Aprueban la adecuación administrativa regional  de la Gerencia Regional de Desarrollo Social a la Gerencia Regional de Desarrollo Económico del Gobierno Regional de San Martín, en el marco de transferencia de funciones en materia de Micro y Pequeña Empresa",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/520060-1",
+   "versions": [
+    {
+     "from": "2010-07-18",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/84Q4jV8vqDBAcIF9wKgyqh/*/520060-2.pdf",
+     "sha256": "6a0022b979d4ce324c74578a95f16134a867e20a9c6ce40d8a275f18101ab5da"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-013-2010-grsm-cr",
+   "short": "Ordenanza Regional N° 013-2010-GRSM/CR",
+   "title": "Ordenanza Regional N° 013-2010-GRSM/CR: Aprueban Texto Único de Procedimientos Administrativos - TUPA 2010, de la Dirección Regional de Energía y Minas de San Martín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/516435-1",
+   "versions": [
+    {
+     "from": "2010-07-11",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EJhMmbcd4ISAB1DB4i9MNL/*/516435-2.pdf",
+     "sha256": "1b1096814ca2966a3c4ac8da175e55713cc3906f2c5d04212225bb00b1a4bae4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-009-2010-grsm-cr",
+   "short": "Ordenanza Regional N° 009-2010-GRSM/CR",
+   "title": "Ordenanza Regional N° 009-2010-GRSM/CR: Aprueban propuesta de Modificación del CAP del Proyecto Especial Alto Mayo (PEAM)",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/491509-1",
+   "versions": [
+    {
+     "from": "2010-05-13",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5CDTeyGf4qmApPYxmAJVnf/*/491509-1.pdf",
+     "sha256": "7efeea56dc6a89d24f22b7b68a231abc1337eb55fa6a1a617ceef3817fb93304"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-007-2010-grsm-cr",
+   "short": "Ordenanza Regional N° 007-2010-GRSM/CR",
+   "title": "Ordenanza Regional N° 007-2010-GRSM/CR: Declaran intangibilidad de fajas marginales de la Subcuenca del río Cumbaza y sus tributarios, y prohiben la realización de actividades esporádicas o permanentes que limiten su uso público",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/481225-1",
+   "versions": [
+    {
+     "from": "2010-04-18",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/Eb7fA_YvqOO9pgdWt0xIzx/*/481225-1.pdf",
+     "sha256": "adaeb0b063912645bba2df4405684381eb79ed883f9e127c1504e35194af2432"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-043-2009-grsm-cr",
+   "short": "Ordenanza Regional N° 043-2009-GRSM/CR",
+   "title": "Ordenanza Regional N° 043-2009-GRSM/CR: Constituyen la Mancomunidad Regional Amazonas - San Martín - La Libertad",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/452025-1",
+   "versions": [
+    {
+     "from": "2010-02-01",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/B2UHXbFYqjO92kAtqKeBEy/*/452025-1.pdf",
+     "sha256": "454030e26a367cfacbd94da49ce8d62b61abe3556062286c7689244e9f356fa5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-041-2009-grsm-cr",
+   "short": "Ordenanza Regional N° 041-2009-GRSM/CR",
+   "title": "Ordenanza Regional N° 041-2009-GRSM/CR: Conforman la Mesa de Diálogo para la implementación de acciones necesarias en actos relacionados con las Comunidades Nativas",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/452023-1",
+   "versions": [
+    {
+     "from": "2010-02-01",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EEeS-LF4KQCAqeF5lpVhho/*/452023-1.pdf",
+     "sha256": "b8db766faa31b44756d4d1b98b75eb0b0e8a5849d0c56717154e5f8c85f1dc9c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-021-2009-grsm-cr",
+   "short": "Ordenanza Regional N° 021-2009-GRSM/CR",
+   "title": "Ordenanza Regional N° 021-2009-GRSM/CR: Institucionalizan el Festival del Cacao y Chocolate en la Región San Martín con sede en la provincia de Mariscal Cáceres - Juanjuí",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/440940-1",
+   "versions": [
+    {
+     "from": "2010-01-02",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3HMQH_U0a31AFj7xtGXjy8/*/440940-1.pdf",
+     "sha256": "29c4f52060dd77621a48386151c4066547e5054baac45e946557629cbdb548c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-034-2009-grsm-cr",
+   "short": "Ordenanza Regional N° 034-2009-GRSM/CR",
+   "title": "Ordenanza Regional N° 034-2009-GRSM/CR: Incorporan a la Oficina del Área de Conservación Regional \"Cordillera Escalera\" en la estructura orgánica del Proyecto Especial Huallaga Central y Bajo Mayo",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/434838-1",
+   "versions": [
+    {
+     "from": "2009-12-16",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6DtZVctv4dQ8XaNmyD4H-_/*/434838-1.pdf",
+     "sha256": "333298760a069a2eb6b005df052bcf62ee70502bd5fbce937274336e3b132891"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-030-2009-grsm-cr",
+   "short": "Ordenanza Regional N° 030-2009-GRSM/CR",
+   "title": "Ordenanza Regional N° 030-2009-GRSM/CR: Aprueban Reglamento de Organización y Funciones del Proyecto Especial Alto Mayo - PEAM",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/428707-1",
+   "versions": [
+    {
+     "from": "2009-11-29",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1aQm967oa369pgXPncz_FO/*/428707-1.pdf",
+     "sha256": "f46e5ce5752e79e139e4fc895ea5db25a8656586be24a8ec5d25546bbff14cd9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-020-2009-grsm-cr",
+   "short": "Ordenanza Regional N° 020-2009-GRSM/CR",
+   "title": "Ordenanza Regional N° 020-2009-GRSM/CR: Aprueban Reglamento de Organización y Funciones - ROF 2009 de la Dirección Regional de Transportes y Comunicaciones de San Martín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/395018-1",
+   "versions": [
+    {
+     "from": "2009-09-12",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/AOwkuphEqMO8XlJVUabIAX/*/395018-1.pdf",
+     "sha256": "9a4a2639f5e2399120c736503bb30ac47921a92c097c59923f8633468a1295a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-018-2009-grsm-cr",
+   "short": "Ordenanza Regional N° 018-2009-GRSM/CR",
+   "title": "Ordenanza Regional N° 018-2009-GRSM/CR: Precisan conformación del Consejo Regional de Seguridad Vial de San Martín CORSEV-SM",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/389161-1",
+   "versions": [
+    {
+     "from": "2009-08-29",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7MxZm71EKLo9_wIxlKRlyc/*/389161-1.pdf",
+     "sha256": "7e4130ac72ba30e49fb73077fbd3731c31bf9f98ba5fc4f8cc5953cf87c35593"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-012-2009-grsm-cr",
+   "short": "Ordenanza Regional N° 012-2009-GRSM/CR",
+   "title": "Ordenanza Regional N° 012-2009-GRSM/CR: Implementan la Estrategia Regional CRECER denominada \"CRECER San Martín, Sembrando Futuro\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/376147-1",
+   "versions": [
+    {
+     "from": "2009-07-26",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1l5HEvLhKhQ9wFay4pEKpC/*/376147-1.pdf",
+     "sha256": "55853aef2ee10fd57ed624ac88ddd22ecacfad1db6c633d1ffd691f92e40740f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-025-2009-grsm-cr",
+   "short": "Ordenanza Regional N° 025-2009-GRSM/CR",
+   "title": "Ordenanza Regional N° 025-2009-GRSM/CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional Agraria - San Martín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/374466-1",
+   "versions": [
+    {
+     "from": "2009-07-22",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/12XKeEuoKG1BXlR4vKCKG_/*/374466-1.pdf",
+     "sha256": "439e38095c28ebe07be4ba80cbeac43a3afec96aa7afe775f19fcdb02008772b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-020-2008-grsm-cr",
+   "short": "Ordenanza Regional N° 020-2008-GRSM/CR",
+   "title": "Ordenanza Regional N° 020-2008-GRSM/CR: Aprueban el \"Plan de Electrificación Rural Regional 2008 - 2017\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/360594-1",
+   "versions": [
+    {
+     "from": "2009-06-18",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7oqjLBaVK8Y9vQsqcpHh6r/*/360594-1.pdf",
+     "sha256": "05b43309fe6584d18b847281d7ce3f4237b6038bd9f58cc95abf9f1ed4cda706"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-001-2009-grsm-cr",
+   "short": "Ordenanza Regional N° 001-2009-GRSM/CR",
+   "title": "Ordenanza Regional N° 001-2009-GRSM/CR: Modifican la Ordenanza N° 016-2004-GRSM/CR mediante la cual se aprobó la creación del Consejo Regional de la Juventud de San Martín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/352031-1",
+   "versions": [
+    {
+     "from": "2009-05-28",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/453Zh9jHa__Bbt5zmOLHmZ/*/352031-1.pdf",
+     "sha256": "9baba1ff497d0cbeafb8e318e3a8bad1cac55dc53c7e28f70dcc0167d53ae515"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-004-2009-grsm-cr",
+   "short": "Ordenanza Regional N° 004-2009-GRSM/CR",
+   "title": "Ordenanza Regional N° 004-2009-GRSM/CR: Modifican la Ordenanza N° 034-2008-GRSM/CR que aprobó el TUPA 2008 de la Dirección Regional de Transportes y Comunicaciones de San Martín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/342754-1",
+   "versions": [
+    {
+     "from": "2009-05-03",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/AKNX5tRjKWo9NEo-gsgEKS/*/342754-1.pdf",
+     "sha256": "2a8ca251a7d7195c1f265d2c8b961e6219a0d1037f5f174ebd8f40a1d37fd9e9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-003-2009-grsm-cr",
+   "short": "Ordenanza Regional N° 003-2009-GRSM/CR",
+   "title": "Ordenanza Regional N° 003-2009-GRSM/CR: Aprueban Plan Vial Departamental Participativo 2009 - 2018 de la Región San Martín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/342750-1",
+   "versions": [
+    {
+     "from": "2009-05-03",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EDnz0GslKDy8eNe7sCg-XN/*/342750-1.pdf",
+     "sha256": "892f0057333af6f1f18bcf2539d177ac71fff7aa28e0523fcfff3e710fd9d0a6"
+    }
+   ]
   }
  ]
 }
