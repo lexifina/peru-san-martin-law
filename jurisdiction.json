@@ -1,0 +1,11 @@
+{
+  "path": "pe-sam",
+  "code": "PE-SAM",
+  "name": "San Martín",
+  "level": "region",
+  "parent": "pe",
+  "repo": "https://github.com/lexifina/peru-san-martin-law",
+  "build": "built: 191 ordinances as published in El Peruano",
+  "language": "es",
+  "sources": 1
+}
