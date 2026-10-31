@@ -209,20 +209,44 @@ de Seguridad Ciudadana 2020", del Gobierno Regional de San Martín | 1 | 2021-03
 | `ordenanza-regional-002-2010-grsm-cr` | Ordenanza Regional N° 002-2010-GRSM/CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Educación de San Martín | 1 | 2010-04-09 to 2010-04-09 |
 | `ordenanza-regional-009-2012-grsm-cr` | Ordenanza Regional N° 009-2012-GRSM/CR: Declaran dia no laborable en el ámbito territorial del departamento de San Martín el 25 de junio de 2012, con motivo de celebrarse las "Fiestas de San Juan" | 1 | 2012-07-01 to 2012-07-01 |
 | `ordenanza-regional-013-2011-grsm-cr` | Ordenanza Regional N° 013-2011-GRSM/CR: Aprueban el Reglamento de Organización y Funciones de la Autoridad Regional Ambiental | 1 | 2012-06-10 to 2012-06-10 |
+| `ordenanza-regional-007-2021-grsm-cr` | Ordenanza Regional N° 007-2021-GRSM/CR: Aprueban el Plan Regional de Competitividad y Productividad de San Martín al 2030 | 1 | 2021-07-29 to 2021-07-29 |
+| `ordenanza-regional-002-2021-grsm-cr` | Ordenanza Regional N° 002-2021-GRSM/CR: Aprueban la Estrategia Regional de Cambio Climático (ERCC) del Gobierno Regional San Martín y declaran de interés regional su adopción e implementación | 1 | 2021-05-28 to 2021-05-28 |
+| `ordenanza-regional-003-2021-grsm-cr` | Ordenanza Regional N° 003-2021-GRSM/CR: Modifican la Ordenanza N° 026-2019-GRSM/CR, que aprueba el inicio del proceso de elaboración del “Plan Regional de Competitividad y Productividad de San Martín al 2030” | 1 | 2021-05-28 to 2021-05-28 |
+| `ordenanza-regional-015-2020-grsm-cr` | Ordenanza Regional N° 015-2020-GRSM/CR: Aprueban creación del Consejo Regional
+para las Personas Adultas Mayores en el ámbito del Gobierno Regional San Martín COREPAM - REGIÓN SAN MARTÍN | 1 | 2021-03-14 to 2021-03-14 |
+| `ordenanza-regional-014-2020-grsm-cr` | Ordenanza Regional N° 014-2020-GRSM/CR: Establecen criterios de distribución de la bolsa de trabajo para los Sindicatos de Construcción Civil existentes en las provincias de la Región San Martin, en los proyectos de inversión pública, ejecución de proyectos y obras de infraestructura | 1 | 2021-01-06 to 2021-01-06 |
+| `ordenanza-regional-026-2019-grsm-cr` | Ordenanza Regional N° 026-2019-GRSM/CR: Aprueban inicio del proceso de elaboración del "Plan Regional de Competitividad y Productividad de San Martín al 2030" (PRCP de San Martín al 2030) | 1 | 2020-02-13 to 2020-02-13 |
+| `ordenanza-regional-025-2019-grsm-cr` | Ordenanza Regional N° 025-2019-GRSM/CR: Crean el Grupo Regional  de Trabajo de Política  Indígenas de la Región  de San Martín (GRTPI San Martín) | 1 | 2020-02-13 to 2020-02-13 |
+| `ordenanza-regional-011-2019-grsm-cr` | Ordenanza Regional N° 011-2019-GRSM/CR: Aprueban la constitución del Consejo Consultivo de Niñas, Niños y Adolescentes de la Región San Martín | 1 | 2019-09-15 to 2019-09-15 |
+| `ordenanza-regional-003-2019-grsm-cr` | Ordenanza Regional N° 003-2019-GRSM/CR: Aprueban actualización y/o reestructuración de todos los instrumentos de gestión del Gobierno Regional San Martín | 1 | 2019-05-18 to 2019-05-18 |
+| `ordenanza-regional-030-2018-grsm-cr` | Ordenanza Regional N° 030-2018-GRSM/CR: Aprueban el Plan de Desarrollo Regional Concertado PDRC, San Martín 2030 | 1 | 2019-05-09 to 2019-05-09 |
+| `ordenanza-regional-033-2018-grsm-cr` | Ordenanza Regional N° 033-2018-GRSM/CR: Aprueban Plan Estratégico Regional Turismo PERTUR - San Martín 2019-2030 | 1 | 2019-05-06 to 2019-05-06 |
+| `ordenanza-regional-034-2018-grsm-cr` | Ordenanza Regional N° 034-2018-GRSM/CR: Declaran de interés regional la Implementación de la Política Nacional para la Transversalización del Enfoque Intercultural en la Región de San Martín | 1 | 2019-04-07 to 2019-04-07 |
+| `ordenanza-regional-028-2018-grsm-cr` | Ordenanza Regional N° 028-2018-GRSM/CR: Aprueban Reglamento para la Atención de Denuncias Ambientales presentadas ante el Gobierno Regional San Martín | 1 | 2018-11-17 to 2018-11-17 |
+| `ordenanza-regional-025-2018-grsm-cr` | Ordenanza Regional N° 025-2018-GRSM/CR: Aprueban Plan Regional de Saneamiento de San Martín 2018 - 2021 | 1 | 2018-10-19 to 2018-10-19 |
+| `ordenanza-regional-017-2018-grsm-cr` | Ordenanza Regional N° 017-2018-GRSM/CR: Declaran como prioridad la elaboración y aplicación de la Zonificación Agroecológica y el Plan de Ordenamiento Agroterritorial del departamento de San Martín | 1 | 2018-09-16 to 2018-09-16 |
+| `ordenanza-regional-016-2018-grsm-cr` | Ordenanza Regional N° 016-2018-GRSM/CR: Constituyen la Comisión Regional Multisectorial de Lucha contra la Trata de Personas y el Tráfico Ilícito de Migrantes de la Región San Martín | 1 | 2018-09-16 to 2018-09-16 |
+| `ordenanza-regional-012-2018-grsm-cr` | Ordenanza Regional N° 012-2018-GRSM/CR: Crean la Mesa Multisectorial Regional por la Participación y Desarrollo Inclusivo de las Personas con Discapacidad en la Región San Martín | 1 | 2018-09-01 to 2018-09-01 |
+| `ordenanza-regional-036-2014-grsm-cr` | Ordenanza Regional N° 036-2014-GRSM/CR: Aprueban el Reglamento de Organización y Funciones del Gobierno Regional San Martín y Cuadro para Asignación de Personal Provisional | 1 | 2015-05-30 to 2015-05-30 |
+| `ordenanza-regional-032-2014-grsm-cr` | Ordenanza Regional N° 032-2014-GRSM/CR: Aprueban la Directiva "Instructivo de Reconocimiento y Gestión Territorial de Núcleos Funcionales" | 1 | 2015-05-30 to 2015-05-30 |
+| `ordenanza-regional-034-2014-grsm-cr` | Ordenanza Regional N° 034-2014-GRSM/CR: Declaran de prioridad regional la implementación de la plataforma tecnológica e institucional para la gestión de la información geoespacial y cartográfica denominada Infraestructura de Datos Espaciales (IDE) del Departamento de San Martín | 1 | 2015-05-30 to 2015-05-30 |
+| `ordenanza-regional-031-2014-grsm-cr` | Ordenanza Regional N° 031-2014-GRSM/CR: Declaran como prioridad regional la elaboración de la Zonificación y el Ordenamiento Forestal en el Departamento de San Martín | 1 | 2015-05-30 to 2015-05-30 |
+| `ordenanza-regional-003-2015-grsm-cr` | Ordenanza Regional N° 003-2015-GRSM/CR: Aprueban el inicio del proceso de Planeamiento Estratégico del Gobierno Regional de San Martín,  para la reformulación del Plan de Desarrollo Regional Concertado PDRC San Martín al 2021 | 1 | 2015-05-30 to 2015-05-30 |
+| `ordenanza-regional-033-2014-grsm-cr` | Ordenanza Regional N° 033-2014-GRSM/CR: Aprueban la "Guía para la Elaboración de Planes de Vida en Comunidades Nativas" | 1 | 2015-05-05 to 2015-05-05 |
 
-The build made 191 commits:
+The build made 214 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 191 | first version of an act |
+| 214 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 191 laws in the record.
-- 382 tags.
+- 214 laws in the record.
+- 428 tags.
 
 ## Dates
 
@@ -234,13 +258,13 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `3dc4103b748ac25d8c9ed813cefa00f595faae0312de5ac8af387e9f28ea96ee` (3007507 bytes).
+- Corpus: sha256 `22bded3d73a0dd1e02f4ab6a70f577e47fcbd0a272accf70d16cd2f14ef54a54` (3376392 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-191 versions of 191 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

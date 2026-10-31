@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-191 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+214 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -206,6 +206,30 @@ de Seguridad Ciudadana 2020", del Gobierno Regional de San Martín | in force 14
 | `ordenanza-regional-002-2010-grsm-cr/` | Ordenanza Regional N° 002-2010-GRSM/CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Educación de San Martín | in force 9 April 2010 |
 | `ordenanza-regional-009-2012-grsm-cr/` | Ordenanza Regional N° 009-2012-GRSM/CR: Declaran dia no laborable en el ámbito territorial del departamento de San Martín el 25 de junio de 2012, con motivo de … | in force 1 July 2012 |
 | `ordenanza-regional-013-2011-grsm-cr/` | Ordenanza Regional N° 013-2011-GRSM/CR: Aprueban el Reglamento de Organización y Funciones de la Autoridad Regional Ambiental | in force 10 June 2012 |
+| `ordenanza-regional-007-2021-grsm-cr/` | Ordenanza Regional N° 007-2021-GRSM/CR: Aprueban el Plan Regional de Competitividad y Productividad de San Martín al 2030 | in force 29 July 2021 |
+| `ordenanza-regional-002-2021-grsm-cr/` | Ordenanza Regional N° 002-2021-GRSM/CR: Aprueban la Estrategia Regional de Cambio Climático (ERCC) del Gobierno Regional San Martín y declaran de interés region… | in force 28 May 2021 |
+| `ordenanza-regional-003-2021-grsm-cr/` | Ordenanza Regional N° 003-2021-GRSM/CR: Modifican la Ordenanza N° 026-2019-GRSM/CR, que aprueba el inicio del proceso de elaboración del “Plan Regional de Compe… | in force 28 May 2021 |
+| `ordenanza-regional-015-2020-grsm-cr/` | Ordenanza Regional N° 015-2020-GRSM/CR: Aprueban creación del Consejo Regional
+para las Personas Adultas Mayores en el ámbito del Gobierno Regional San Martín C… | in force 14 March 2021 |
+| `ordenanza-regional-014-2020-grsm-cr/` | Ordenanza Regional N° 014-2020-GRSM/CR: Establecen criterios de distribución de la bolsa de trabajo para los Sindicatos de Construcción Civil existentes en las … | in force 6 January 2021 |
+| `ordenanza-regional-026-2019-grsm-cr/` | Ordenanza Regional N° 026-2019-GRSM/CR: Aprueban inicio del proceso de elaboración del "Plan Regional de Competitividad y Productividad de San Martín al 2030" (… | in force 13 February 2020 |
+| `ordenanza-regional-025-2019-grsm-cr/` | Ordenanza Regional N° 025-2019-GRSM/CR: Crean el Grupo Regional  de Trabajo de Política  Indígenas de la Región  de San Martín (GRTPI San Martín) | in force 13 February 2020 |
+| `ordenanza-regional-011-2019-grsm-cr/` | Ordenanza Regional N° 011-2019-GRSM/CR: Aprueban la constitución del Consejo Consultivo de Niñas, Niños y Adolescentes de la Región San Martín | in force 15 September 2019 |
+| `ordenanza-regional-003-2019-grsm-cr/` | Ordenanza Regional N° 003-2019-GRSM/CR: Aprueban actualización y/o reestructuración de todos los instrumentos de gestión del Gobierno Regional San Martín | in force 18 May 2019 |
+| `ordenanza-regional-030-2018-grsm-cr/` | Ordenanza Regional N° 030-2018-GRSM/CR: Aprueban el Plan de Desarrollo Regional Concertado PDRC, San Martín 2030 | in force 9 May 2019 |
+| `ordenanza-regional-033-2018-grsm-cr/` | Ordenanza Regional N° 033-2018-GRSM/CR: Aprueban Plan Estratégico Regional Turismo PERTUR - San Martín 2019-2030 | in force 6 May 2019 |
+| `ordenanza-regional-034-2018-grsm-cr/` | Ordenanza Regional N° 034-2018-GRSM/CR: Declaran de interés regional la Implementación de la Política Nacional para la Transversalización del Enfoque Intercultu… | in force 7 April 2019 |
+| `ordenanza-regional-028-2018-grsm-cr/` | Ordenanza Regional N° 028-2018-GRSM/CR: Aprueban Reglamento para la Atención de Denuncias Ambientales presentadas ante el Gobierno Regional San Martín | in force 17 November 2018 |
+| `ordenanza-regional-025-2018-grsm-cr/` | Ordenanza Regional N° 025-2018-GRSM/CR: Aprueban Plan Regional de Saneamiento de San Martín 2018 - 2021 | in force 19 October 2018 |
+| `ordenanza-regional-017-2018-grsm-cr/` | Ordenanza Regional N° 017-2018-GRSM/CR: Declaran como prioridad la elaboración y aplicación de la Zonificación Agroecológica y el Plan de Ordenamiento Agroterri… | in force 16 September 2018 |
+| `ordenanza-regional-016-2018-grsm-cr/` | Ordenanza Regional N° 016-2018-GRSM/CR: Constituyen la Comisión Regional Multisectorial de Lucha contra la Trata de Personas y el Tráfico Ilícito de Migrantes d… | in force 16 September 2018 |
+| `ordenanza-regional-012-2018-grsm-cr/` | Ordenanza Regional N° 012-2018-GRSM/CR: Crean la Mesa Multisectorial Regional por la Participación y Desarrollo Inclusivo de las Personas con Discapacidad en la… | in force 1 September 2018 |
+| `ordenanza-regional-036-2014-grsm-cr/` | Ordenanza Regional N° 036-2014-GRSM/CR: Aprueban el Reglamento de Organización y Funciones del Gobierno Regional San Martín y Cuadro para Asignación de Personal… | in force 30 May 2015 |
+| `ordenanza-regional-032-2014-grsm-cr/` | Ordenanza Regional N° 032-2014-GRSM/CR: Aprueban la Directiva "Instructivo de Reconocimiento y Gestión Territorial de Núcleos Funcionales" | in force 30 May 2015 |
+| `ordenanza-regional-034-2014-grsm-cr/` | Ordenanza Regional N° 034-2014-GRSM/CR: Declaran de prioridad regional la implementación de la plataforma tecnológica e institucional para la gestión de la info… | in force 30 May 2015 |
+| `ordenanza-regional-031-2014-grsm-cr/` | Ordenanza Regional N° 031-2014-GRSM/CR: Declaran como prioridad regional la elaboración de la Zonificación y el Ordenamiento Forestal en el Departamento de San … | in force 30 May 2015 |
+| `ordenanza-regional-003-2015-grsm-cr/` | Ordenanza Regional N° 003-2015-GRSM/CR: Aprueban el inicio del proceso de Planeamiento Estratégico del Gobierno Regional de San Martín,  para la reformulación d… | in force 30 May 2015 |
+| `ordenanza-regional-033-2014-grsm-cr/` | Ordenanza Regional N° 033-2014-GRSM/CR: Aprueban la "Guía para la Elaboración de Planes de Vida en Comunidades Nativas" | in force 5 May 2015 |
 
 ## Source
 

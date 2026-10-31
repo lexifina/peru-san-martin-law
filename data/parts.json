@@ -225,6 +225,34 @@
     "ordenanza-regional-033-2009-grsm-cr"
    ],
    "sha256": "fa6e14732ee37390f524ccc9f773243c644bfa7142ff0ef5ed6909ff474a7d1b"
+  },
+  "33-runner-01.json": {
+   "acts": [
+    "ordenanza-regional-002-2021-grsm-cr",
+    "ordenanza-regional-003-2015-grsm-cr",
+    "ordenanza-regional-003-2019-grsm-cr",
+    "ordenanza-regional-003-2021-grsm-cr",
+    "ordenanza-regional-007-2021-grsm-cr",
+    "ordenanza-regional-011-2019-grsm-cr",
+    "ordenanza-regional-012-2018-grsm-cr",
+    "ordenanza-regional-014-2020-grsm-cr",
+    "ordenanza-regional-015-2020-grsm-cr",
+    "ordenanza-regional-016-2018-grsm-cr",
+    "ordenanza-regional-017-2018-grsm-cr",
+    "ordenanza-regional-025-2018-grsm-cr",
+    "ordenanza-regional-025-2019-grsm-cr",
+    "ordenanza-regional-026-2019-grsm-cr",
+    "ordenanza-regional-028-2018-grsm-cr",
+    "ordenanza-regional-030-2018-grsm-cr",
+    "ordenanza-regional-031-2014-grsm-cr",
+    "ordenanza-regional-032-2014-grsm-cr",
+    "ordenanza-regional-033-2014-grsm-cr",
+    "ordenanza-regional-033-2018-grsm-cr",
+    "ordenanza-regional-034-2014-grsm-cr",
+    "ordenanza-regional-034-2018-grsm-cr",
+    "ordenanza-regional-036-2014-grsm-cr"
+   ],
+   "sha256": "82f6f969c56ce89a8f8055ec842fbf9f4bc64c104f4e60cdbc4f545e1bbabab4"
   }
  },
  "schema": 1

@@ -2674,6 +2674,328 @@
      "sha256": "c39ba4e4759bc085a6845264587a7ab30a527c7403684778a19148f3caeb9616"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-regional-007-2021-grsm-cr",
+   "short": "Ordenanza Regional N° 007-2021-GRSM/CR",
+   "title": "Ordenanza Regional N° 007-2021-GRSM/CR: Aprueban el Plan Regional de Competitividad y Productividad de San Martín al 2030",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1976551-1",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/C8S81xjs4RFBRx3uctdIq1/*/1976551-1.pdf",
+     "sha256": "a05568c70dadf39073699152ed9e71dccd7353de8c6fd49c249db97c5fe3a2a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-002-2021-grsm-cr",
+   "short": "Ordenanza Regional N° 002-2021-GRSM/CR",
+   "title": "Ordenanza Regional N° 002-2021-GRSM/CR: Aprueban la Estrategia Regional de Cambio Climático (ERCC) del Gobierno Regional San Martín y declaran de interés regional su adopción e implementación",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1956250-1",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8o6Zt8F34Vg8gHYTzo_hMz/*/1956250-1.pdf",
+     "sha256": "3306eca57d9ed47fb36a341fe6d1b4210ec35cb4a0a5fb4efca4ba7d28b5900f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-003-2021-grsm-cr",
+   "short": "Ordenanza Regional N° 003-2021-GRSM/CR",
+   "title": "Ordenanza Regional N° 003-2021-GRSM/CR: Modifican la Ordenanza N° 026-2019-GRSM/CR, que aprueba el inicio del proceso de elaboración del “Plan Regional de Competitividad y Productividad de San Martín al 2030”",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1956248-1",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9F09aKUMaNQ9X0wzVINjHD/*/1956248-1.pdf",
+     "sha256": "4cb39c5f99d386dd635550fc7ad5df3b7edd1e6daf9616fd4a6a94dafb5be53b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-015-2020-grsm-cr",
+   "short": "Ordenanza Regional N° 015-2020-GRSM/CR",
+   "title": "Ordenanza Regional N° 015-2020-GRSM/CR: Aprueban creación del Consejo Regional\npara las Personas Adultas Mayores en el ámbito del Gobierno Regional San Martín COREPAM - REGIÓN SAN MARTÍN",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1934087-1",
+   "versions": [
+    {
+     "from": "2021-03-14",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FSpYjPSyap28xTbkuBTYnP/*/1934087-11.pdf",
+     "sha256": "5a5314b5ba2d3d2a5c6b69ec5ef18947d15c1c8c549e021607c305a35ff9899f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-014-2020-grsm-cr",
+   "short": "Ordenanza Regional N° 014-2020-GRSM/CR",
+   "title": "Ordenanza Regional N° 014-2020-GRSM/CR: Establecen criterios de distribución de la bolsa de trabajo para los Sindicatos de Construcción Civil existentes en las provincias de la Región San Martin, en los proyectos de inversión pública, ejecución de proyectos y obras de infraestructura",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1916972-1",
+   "versions": [
+    {
+     "from": "2021-01-06",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BJdp4y8IKxXBu14VGM8Hrm/*/1916972-1.pdf",
+     "sha256": "af000eacdf714c146e16c378aa232f24d3b658bb5b57d8863cbe5c2d10f08c64"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-026-2019-grsm-cr",
+   "short": "Ordenanza Regional N° 026-2019-GRSM/CR",
+   "title": "Ordenanza Regional N° 026-2019-GRSM/CR: Aprueban inicio del proceso de elaboración del \"Plan Regional de Competitividad y Productividad de San Martín al 2030\" (PRCP de San Martín al 2030)",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1854070-1",
+   "versions": [
+    {
+     "from": "2020-02-13",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5Tmp1plPKq28Oe-7Ylzz9l/*/1854070-1.pdf",
+     "sha256": "f0952882f37fae305b3c0b630cd7ad57e62ac1b06abafb064b8cd01e3d00452a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-025-2019-grsm-cr",
+   "short": "Ordenanza Regional N° 025-2019-GRSM/CR",
+   "title": "Ordenanza Regional N° 025-2019-GRSM/CR: Crean el Grupo Regional  de Trabajo de Política  Indígenas de la Región  de San Martín (GRTPI San Martín)",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1854069-1",
+   "versions": [
+    {
+     "from": "2020-02-13",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/51kHyO2mKH-8rCghv2bodC/*/1854069-1.pdf",
+     "sha256": "4197be3c330366eb44b3711c40dd18aab8ae3f7cb25e4ff28ac0920b010c9a47"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-011-2019-grsm-cr",
+   "short": "Ordenanza Regional N° 011-2019-GRSM/CR",
+   "title": "Ordenanza Regional N° 011-2019-GRSM/CR: Aprueban la constitución del Consejo Consultivo de Niñas, Niños y Adolescentes de la Región San Martín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1806561-1",
+   "versions": [
+    {
+     "from": "2019-09-15",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8e6T7-eq4RXB58pwrptwsK/*/1806561-2.pdf",
+     "sha256": "da0a36615d6181a722f8abf709bd8a2bd16523eac0701c4b5aac59bec079b98f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-003-2019-grsm-cr",
+   "short": "Ordenanza Regional N° 003-2019-GRSM/CR",
+   "title": "Ordenanza Regional N° 003-2019-GRSM/CR: Aprueban actualización y/o reestructuración de todos los instrumentos de gestión del Gobierno Regional San Martín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1769449-1",
+   "versions": [
+    {
+     "from": "2019-05-18",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BXC2v_3kqM-8RpogexfqRI/*/1769449-1.pdf",
+     "sha256": "44bbb3f615b70fd8ce40f3eddfb24e33cb836742f1782de4ad7ea1848d918938"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-030-2018-grsm-cr",
+   "short": "Ordenanza Regional N° 030-2018-GRSM/CR",
+   "title": "Ordenanza Regional N° 030-2018-GRSM/CR: Aprueban el Plan de Desarrollo Regional Concertado PDRC, San Martín 2030",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1766569-1",
+   "versions": [
+    {
+     "from": "2019-05-09",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/E629wukgq8Y9waJ1xmJQWW/*/1766569-1.pdf",
+     "sha256": "0575b996cc8068a921a0d1e87572ab460426705d458e5aae3345638ab42ffd3a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-033-2018-grsm-cr",
+   "short": "Ordenanza Regional N° 033-2018-GRSM/CR",
+   "title": "Ordenanza Regional N° 033-2018-GRSM/CR: Aprueban Plan Estratégico Regional Turismo PERTUR - San Martín 2019-2030",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1761964-1",
+   "versions": [
+    {
+     "from": "2019-05-06",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BnPXpYUTKr99vpV23Ik0nD/*/1761964-1.pdf",
+     "sha256": "b97ac85f18c92560c6a3b57ed9850421f74d8d01d37771bf79d7502567f25774"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-034-2018-grsm-cr",
+   "short": "Ordenanza Regional N° 034-2018-GRSM/CR",
+   "title": "Ordenanza Regional N° 034-2018-GRSM/CR: Declaran de interés regional la Implementación de la Política Nacional para la Transversalización del Enfoque Intercultural en la Región de San Martín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1757128-6",
+   "versions": [
+    {
+     "from": "2019-04-07",
+     "units": 10,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4t22P-kta7ZAz7obY6yWzh/*/1757128-13.pdf",
+     "sha256": "a7f0a41c8be387299c3e41b556c4d2c88659e767cee9a017867dfd0b51ba6b81"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-028-2018-grsm-cr",
+   "short": "Ordenanza Regional N° 028-2018-GRSM/CR",
+   "title": "Ordenanza Regional N° 028-2018-GRSM/CR: Aprueban Reglamento para la Atención de Denuncias Ambientales presentadas ante el Gobierno Regional San Martín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1712345-1",
+   "versions": [
+    {
+     "from": "2018-11-17",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8p8pN4l3a34BNeeL5DhkNF/*/1712345-1.pdf",
+     "sha256": "f4a51f53d678a845ea10ef514ae7371f6d29a36e5c6d7ff41dbbb36ed8ae8407"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-025-2018-grsm-cr",
+   "short": "Ordenanza Regional N° 025-2018-GRSM/CR",
+   "title": "Ordenanza Regional N° 025-2018-GRSM/CR: Aprueban Plan Regional de Saneamiento de San Martín 2018 - 2021",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1702552-1",
+   "versions": [
+    {
+     "from": "2018-10-19",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/D4SSP_nQaUEB5c0Cml30cb/*/1702552-1.pdf",
+     "sha256": "1e39227e015c3bb6e978dd72e680c98f47e7196271ff5d019c4a22533233a7f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-017-2018-grsm-cr",
+   "short": "Ordenanza Regional N° 017-2018-GRSM/CR",
+   "title": "Ordenanza Regional N° 017-2018-GRSM/CR: Declaran como prioridad la elaboración y aplicación de la Zonificación Agroecológica y el Plan de Ordenamiento Agroterritorial del departamento de San Martín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1691117-1",
+   "versions": [
+    {
+     "from": "2018-09-16",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FFE5V2qg4KI9B5THtLaP6z/*/1691117-1.pdf",
+     "sha256": "99c995f58607ea30d5f4a199a3dbce946583737a8da18612583805128fe8c7f9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-016-2018-grsm-cr",
+   "short": "Ordenanza Regional N° 016-2018-GRSM/CR",
+   "title": "Ordenanza Regional N° 016-2018-GRSM/CR: Constituyen la Comisión Regional Multisectorial de Lucha contra la Trata de Personas y el Tráfico Ilícito de Migrantes de la Región San Martín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1691115-1",
+   "versions": [
+    {
+     "from": "2018-09-16",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/65X-NH0Qa0BAvZDQit-hhh/*/1691115-1.pdf",
+     "sha256": "2662fa34a1063e41144f09af9e88bdf92e8b57040a8debcc51c7ba5267568704"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-012-2018-grsm-cr",
+   "short": "Ordenanza Regional N° 012-2018-GRSM/CR",
+   "title": "Ordenanza Regional N° 012-2018-GRSM/CR: Crean la Mesa Multisectorial Regional por la Participación y Desarrollo Inclusivo de las Personas con Discapacidad en la Región San Martín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1686436-1",
+   "versions": [
+    {
+     "from": "2018-09-01",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0dGDSlKQaFQ8fVZrPcFEc4/*/1686436-1.pdf",
+     "sha256": "a0d6351845a84c75e3b830fb5a43125f028fad037107ed54e5b8ec765f8f4ab1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-036-2014-grsm-cr",
+   "short": "Ordenanza Regional N° 036-2014-GRSM/CR",
+   "title": "Ordenanza Regional N° 036-2014-GRSM/CR: Aprueban el Reglamento de Organización y Funciones del Gobierno Regional San Martín y Cuadro para Asignación de Personal Provisional",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1243101-4",
+   "versions": [
+    {
+     "from": "2015-05-30",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1s0-ozw1qFW90C0Zdxyt79/*/1243101-4.pdf",
+     "sha256": "ea19fdd36bb70e3bcd4c0b52be6e808f201203693e694005ffa7bd36e49a565d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-032-2014-grsm-cr",
+   "short": "Ordenanza Regional N° 032-2014-GRSM/CR",
+   "title": "Ordenanza Regional N° 032-2014-GRSM/CR: Aprueban la Directiva \"Instructivo de Reconocimiento y Gestión Territorial de Núcleos Funcionales\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1243101-2",
+   "versions": [
+    {
+     "from": "2015-05-30",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4d0HpwbOas78yjyS0Eo4mm/*/1243101-2.pdf",
+     "sha256": "49961cb4b0f50e9c932021d1d51b81fc6c57b9d0c6a0b355b97666608c50c0da"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-034-2014-grsm-cr",
+   "short": "Ordenanza Regional N° 034-2014-GRSM/CR",
+   "title": "Ordenanza Regional N° 034-2014-GRSM/CR: Declaran de prioridad regional la implementación de la plataforma tecnológica e institucional para la gestión de la información geoespacial y cartográfica denominada Infraestructura de Datos Espaciales (IDE) del Departamento de San Martín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1243101-3",
+   "versions": [
+    {
+     "from": "2015-05-30",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/Fq9uBcmYacq9YwPT21UjB1/*/1243101-3.pdf",
+     "sha256": "d0ee39a0e02aad8b34ccad9b577be224984161e6ffe0e6ac6cfd35169c26d4d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-031-2014-grsm-cr",
+   "short": "Ordenanza Regional N° 031-2014-GRSM/CR",
+   "title": "Ordenanza Regional N° 031-2014-GRSM/CR: Declaran como prioridad regional la elaboración de la Zonificación y el Ordenamiento Forestal en el Departamento de San Martín",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1243101-1",
+   "versions": [
+    {
+     "from": "2015-05-30",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/F1NGefYvKnnBa_rT30JKjv/*/1243101-1.pdf",
+     "sha256": "1a60376647dcf50127cfac05ebc7a3fc127f5e4d705485e4b868d9efe0981769"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-003-2015-grsm-cr",
+   "short": "Ordenanza Regional N° 003-2015-GRSM/CR",
+   "title": "Ordenanza Regional N° 003-2015-GRSM/CR: Aprueban el inicio del proceso de Planeamiento Estratégico del Gobierno Regional de San Martín,  para la reformulación del Plan de Desarrollo Regional Concertado PDRC San Martín al 2021",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1243087-1",
+   "versions": [
+    {
+     "from": "2015-05-30",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6gP2v-B2K4WANWNbMU4tuV/*/1243087-1.pdf",
+     "sha256": "26ff0098abb07f238f35b6723d42f0e8e90ca6adacff8342c066fdfad7abdf4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-033-2014-grsm-cr",
+   "short": "Ordenanza Regional N° 033-2014-GRSM/CR",
+   "title": "Ordenanza Regional N° 033-2014-GRSM/CR: Aprueban la \"Guía para la Elaboración de Planes de Vida en Comunidades Nativas\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1231774-1",
+   "versions": [
+    {
+     "from": "2015-05-05",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/APr-ABDcaMY9EP16wqwE52/*/1231774-1.pdf",
+     "sha256": "b54f56392b972f8710eb0dc7d1f1ab1bfac16e221dd54bf28f72747fb726f62a"
+    }
+   ]
   }
  ]
 }
