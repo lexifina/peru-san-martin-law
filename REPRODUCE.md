@@ -233,20 +233,68 @@ para las Personas Adultas Mayores en el ámbito del Gobierno Regional San Martí
 | `ordenanza-regional-031-2014-grsm-cr` | Ordenanza Regional N° 031-2014-GRSM/CR: Declaran como prioridad regional la elaboración de la Zonificación y el Ordenamiento Forestal en el Departamento de San Martín | 1 | 2015-05-30 to 2015-05-30 |
 | `ordenanza-regional-003-2015-grsm-cr` | Ordenanza Regional N° 003-2015-GRSM/CR: Aprueban el inicio del proceso de Planeamiento Estratégico del Gobierno Regional de San Martín,  para la reformulación del Plan de Desarrollo Regional Concertado PDRC San Martín al 2021 | 1 | 2015-05-30 to 2015-05-30 |
 | `ordenanza-regional-033-2014-grsm-cr` | Ordenanza Regional N° 033-2014-GRSM/CR: Aprueban la "Guía para la Elaboración de Planes de Vida en Comunidades Nativas" | 1 | 2015-05-05 to 2015-05-05 |
+| `ordenanza-regional-028-2014-grsm-cr` | Ordenanza Regional N° 028-2014-GRSM/CR: Aprueban los lineamientos e iniciativas de gestión que complementan la Política Territorial Regional de San Martín | 1 | 2015-05-01 to 2015-05-01 |
+| `ordenanza-regional-030-2014-grsm-cr` | Ordenanza Regional N° 030-2014-GRSM/CR: Crean e implementan el Sistema Regional de Retribución  por Servicios Ecosistémicos (SIRRSE-SM) | 1 | 2015-05-01 to 2015-05-01 |
+| `ordenanza-regional-026-2014-grsm-cr` | Ordenanza Regional N° 026-2014-GRSM/CR: Aprueban las Prioridades Regionales de Investigación para la Salud, 2015 - 2021 | 1 | 2015-05-01 to 2015-05-01 |
+| `ordenanza-regional-024-2014-grsm-cr` | Ordenanza Regional N° 024-2014-GRSM/CR: Aprueban el  Plan Regional de Acuicultura (PRA) de la Región San Martín para el periodo 2014-2023 | 1 | 2015-05-01 to 2015-05-01 |
+| `ordenanza-regional-001-2015-grsm-cr` | Ordenanza Regional N° 001-2015-GRSM/CR: Aprueban el Cuadro de Asignación de Personal  Provisional - CAP de Unidades Ejecutoras de Salud del Gobierno Regional de San Martín para nombramiento de profesionales de la salud y de los técnicos y auxiliares asistenciales | 1 | 2015-05-01 to 2015-05-01 |
+| `ordenanza-regional-002-2015-grsm-cr` | Ordenanza Regional N° 002-2015-GRSM/CR: Instituyen como símbolo regional al Escudo del Departamento de San Martín | 1 | 2015-04-03 to 2015-04-03 |
+| `ordenanza-regional-015-2013-grsm-cr` | Ordenanza Regional N° 015-2013-GRSM/CR: Disponen se exijan la certificación de origen expedida por la Dirección Ejecutiva de Administración y Conservación de Recursos Naturales de la Autoridad Regional Ambiental en las bases para las contrataciones y adquisiciones públicas en los que estén incluidos | 1 | 2013-12-19 to 2013-12-19 |
+| `ordenanza-regional-014-2013-grsm-cr` | Ordenanza Regional N° 014-2013-GRSM/CR: Establecen que el Gobierno Regional de San Martín es el órgano competente para otorgar Certificación Ambiental de manera previa al inicio de ejecución de proyectos viales departamentales que se ejecuten en su jurisdicción territorial | 1 | 2013-11-02 to 2013-11-02 |
+| `ordenanza-regional-012-2013-grsm-cr` | Ordenanza Regional N° 012-2013-GRSM/CR: Declaran de interés y necesidad pública, la vigilancia, prevención y control del Dengue en el ámbito de la Región San Martín | 1 | 2013-07-26 to 2013-07-26 |
+| `ordenanza-regional-011-2013-grsm-cr` | Ordenanza Regional N° 011-2013-GRSM/CR: Declaran de interés priotario y público la promoción del acceso de adolescentes y jóvenes a los servicios de atención integral diferenciados, públicos, mixtos y privados, con especial énfasis en la salud sexual y reproductiva en la Región San Martín | 1 | 2013-07-12 to 2013-07-12 |
+| `ordenanza-regional-009-2013-grsm-cr` | Ordenanza Regional N° 009-2013-GRSM/CR: Aprueban inicio y Reglamento del Proceso de Presupuesto Participativo basado en Resultados para el Año Fiscal 2014 de la Región San Martín | 1 | 2013-06-11 to 2013-06-11 |
+| `ordenanza-regional-008-2013-grsm-cr` | Ordenanza Regional N° 008-2013-GRSM/CR: Aprueban Reglamento para Elección de Representantes de las Organizaciones de la Sociedad Civil ante el Consejo de Coordinación Regional del Gobierno Regional de San Martín - Período 2013 - 2015 | 1 | 2013-05-07 to 2013-05-07 |
+| `ordenanza-regional-007-2013-grsm-cr` | Ordenanza Regional N° 007-2013-GRSM/CR: Aprueban nombre de la Mancomunidad Regional "Amazonas - San Martín - La Libertad - Cajamarca" como "Mancomunidad Regional Qhapaq Ñan Nor Amazónico" | 1 | 2013-04-15 to 2013-04-15 |
+| `ordenanza-regional-005-2013-grsm-cr` | Ordenanza Regional N° 005-2013-GRSM/CR: Institucionalizan la Transversalización del Enfoque de Género en todas las áreas y en todos los proceso de gestión del Gobierno Regional de San Martín | 1 | 2013-04-15 to 2013-04-15 |
+| `ordenanza-regional-004-2013-grsm-cr` | Ordenanza Regional N° 004-2013-GRSM/CR: Constituyen la Red Regional de Lucha contra la Trata de Personas en la Región San Martín | 1 | 2013-04-15 to 2013-04-15 |
+| `ordenanza-regional-003-2013-grsm-cr` | Ordenanza Regional N° 003-2013-GRSM/CR: Aprueban Reglamento de Organización y Funciones y Cuadro para Asignación de Personal del Gobierno Regional de San Martín | 1 | 2013-04-07 to 2013-04-07 |
+| `ordenanza-regional-021-2012-grsm-cr` | Ordenanza Regional N° 021-2012-GRSM/CR: Aprueban modificación del Cuadro para Asignación de Personal - CAP del Programa de Desarrollo Agroambiental en la Ceja de Selva - PROCEJA | 1 | 2013-03-16 to 2013-03-16 |
+| `ordenanza-regional-024-2012-grsm-cr` | Ordenanza Regional N° 024-2012-GRSM/CR: Aprueban el "Código de Ética del Consejo Regional de San Martín" | 1 | 2013-02-24 to 2013-02-24 |
+| `ordenanza-regional-002-2013-grsm-cr` | Ordenanza Regional N° 002-2013-GRSM/CR: Aprueban actualización del "Plan Vial Departamental Participativo 2012 - 2021 de la Región San Martín" | 1 | 2013-02-24 to 2013-02-24 |
+| `ordenanza-regional-023-2012-grsm-cr` | Ordenanza Regional N° 023-2012-GRSM/CR: Aprueban Plan Regional de Operaciones de Emergencia - PROE 2012 - 2014, elaborado por la Dirección Regional de Defensa Nacional y Defensa Civil | 1 | 2013-02-24 to 2013-02-24 |
+| `ordenanza-regional-020-2012-grsm-cr` | Ordenanza Regional N° 020-2012-GRSM/CR: Disponen reconocer a la Comisión Ambiental Regional de San Martín CAR-SM como ente encargado de coordinar y concertar los aspectos ambientales, de recursos naturales, de ordenamiento territorial y del Sistema de Gestión Ambiental Regional | 1 | 2013-02-24 to 2013-02-24 |
+| `ordenanza-regional-001-2013-grsm-cr` | Ordenanza Regional N° 001-2013-GRSM/CR: Aprueban la Memoria Anual 2011 del Gobierno Regional | 1 | 2013-02-24 to 2013-02-24 |
+| `ordenanza-regional-022-2012-grsm-cr` | Ordenanza Regional N° 022-2012-GRSM/CR: Modifican Texto Único de Procedimientos Administrativos de la Dirección Regional de Energía y Minas de San Martín | 1 | 2013-01-14 to 2013-01-14 |
+| `ordenanza-regional-019-2012-grsm-cr` | Ordenanza Regional N° 019-2012-GRSM/CR: Aprueban Plan de Acción Regional de las Personas con Discapacidad de la Región San Martín 2011 - 2014 | 1 | 2013-01-14 to 2013-01-14 |
+| `ordenanza-regional-017-2012-grsm-cr` | Ordenanza Regional N° 017-2012-GRSM/CR: Derogan la Ordenanza N° 039-2010-GRSM/CR y reiteran el compromiso de impulsar la construcción del Centro Cultural Regional en la capital departamental y los Centros Culturales Provinciales | 1 | 2012-12-17 to 2012-12-17 |
+| `ordenanza-regional-018-2012-grsm-cr` | Ordenanza Regional N° 018-2012-GRSM/CR: Disponen creación y funcionamiento de la Mesa Regional por la Participación y Desarrollo inclusivo de las Personas con Discapacidad en la Región San Martín | 1 | 2012-12-09 to 2012-12-09 |
+| `ordenanza-regional-015-2012-grsm-cr` | Ordenanza Regional N° 015-2012-GRSM/CR: Aprueban la Política Territorial Regional de San Martín | 1 | 2012-12-09 to 2012-12-09 |
+| `ordenanza-regional-016-2012-grsm-cr` | Ordenanza Regional N° 016-2012-GRSM/CR: Aprueban el Cuadro para Asignación de Personal - CAP del Gobierno Regional | 1 | 2012-11-02 to 2012-11-02 |
+| `ordenanza-regional-014-2012-grsm-cr` | Ordenanza Regional N° 014-2012-GRSM/CR: Aprueban modificaciones al Estatuto de la Mancomunidad Regional Amazonas - San Martín - La Libertad - Cajamarca | 1 | 2012-09-29 to 2012-09-29 |
+| `ordenanza-regional-013-2012-grsm-cr` | Ordenanza Regional N° 013-2012-GRSM/CR: Aprueban modificación del Cuadro de Asignación de Personal - CAP de la Red de Servicios de Salud Rioja | 1 | 2012-09-21 to 2012-09-21 |
+| `ordenanza-regional-010-2012-grsm-cr` | Ordenanza Regional N° 010-2012-GRSM/CR: Modifican la Ordenanza N° 032-2010-GRSM/CR | 1 | 2012-08-09 to 2012-08-09 |
+| `ordenanza-regional-012-2012-grsm-cr` | Ordenanza Regional N° 012-2012-GRSM/CR: Aprueban modificación del Cuadro de Asignación de Personal - CAP de la Oficina Zonal Huallaga Central - Juanjui del Gobierno Regional | 1 | 2012-07-29 to 2012-07-29 |
+| `ordenanza-regional-008-2009-grsm-cr` | Ordenanza Regional N° 008-2009-GRSM/CR: Declaran de necesidad e interés regional la implementación del Ordenamiento Territorial de la Región San Martín y aprueban constitución de la Comisión Técnica Regional de Ordenamiento Territorial | 1 | 2012-06-16 to 2012-06-16 |
+| `ordenanza-regional-004-2012-grsm-cr` | Ordenanza Regional N° 004-2012-GRSM/CR: Aprueban inicio del proceso de actualización y/o formulación del Plan Estratégico de Desarrollo Regional Concertado San Martín hacia el 2021 | 1 | 2012-05-11 to 2012-05-11 |
+| `ordenanza-regional-005-2012-grsm-cr` | Ordenanza Regional N° 005-2012-GRSM/CR: Aprueban inicio y Reglamento del Proceso de Presupuesto Participativo 2013 | 1 | 2012-05-08 to 2012-05-08 |
+| `ordenanza-regional-003-2012-grsm-cr` | Ordenanza Regional N° 003-2012-GRSM/CR: Aprueban el TUPA del Gobierno Regional de San Martín | 1 | 2012-05-08 to 2012-05-08 |
+| `ordenanza-regional-014-2011-grsm-cr` | Ordenanza Regional N° 014-2011-GRSM/CR: Aprueban denominar a la provincia de Tocache, departamento de San Martín como "Capital Mundial del Cacao Aromático" | 1 | 2012-04-30 to 2012-04-30 |
+| `ordenanza-regional-001-2012-grsm-cr` | Ordenanza Regional N° 001-2012-GRSM/CR: Aprueban Plan Estratégico Institucional del Gobierno Regional de San Martín 2011-2014 | 1 | 2012-04-30 to 2012-04-30 |
+| `ordenanza-regional-029-2011-grsm-cr` | Ordenanza Regional N° 029-2011-GRSM/CR: Modifican Ordenanza N° 018-2011-GRSM/CR mediante la cual se crea el Comité Consultivo Regional de Turismo de San Martín | 1 | 2012-03-03 to 2012-03-03 |
+| `ordenanza-regional-030-2011-grsm-cr` | Ordenanza Regional N° 030-2011-GRSM/CR: Validan acuerdos adoptados en la "VI Asamblea de la Mancomunidad Regional Amazonas - San Martín - La Libertad - Cajamarca" y aprueban Estatutos | 1 | 2012-03-02 to 2012-03-02 |
+| `ordenanza-regional-031-2011-grsm-cr` | Ordenanza Regional N° 031-2011-GRSM/CR: Aprueban TUPA 2012 de las Direcciones Ejecutivas de Gestión Estratégica Ambiental y Administración y Conservación de Recursos Naturales de la Autoridad Regional Ambiental | 1 | 2012-01-14 to 2012-01-14 |
+| `ordenanza-regional-024-2011-grsm-cr` | Ordenanza Regional N° 024-2011-GRSM/CR: Modifican la Guía de Servicios 2010 de la Dirección Regional de Transportes y Comunicaciones de San Martín | 1 | 2011-11-28 to 2011-11-28 |
+| `ordenanza-regional-027-2011-grsm-cr` | Ordenanza Regional N° 027-2011-GRSM/CR: Aprueban la constitución de la Mancomunidad Regional Amazonas - San Martín - La Libertad - Cajamarca | 1 | 2011-11-28 to 2011-11-28 |
+| `ordenanza-regional-023-2011-grsm-cr` | Ordenanza Regional N° 023-2011-GRSM/CR: Actualizan el Texto Único de Procedimientos Administrativos de la Dirección Regional de Transportes y Comunicaciones de San Martín | 1 | 2011-11-28 to 2011-11-28 |
+| `ordenanza-regional-004-2011-grsm-cr` | Ordenanza Regional N° 004-2011-GRSM/CR: Declaran como Institución Educativa Emblemática a la Institución Educativa "Santo Toribio" | 1 | 2011-11-06 to 2011-11-06 |
+| `ordenanza-regional-025-2011-grsm-cr` | Ordenanza Regional N° 025-2011-GRSM/CR: Derogan Ordenanza N° 029-2009-GRSM/CR y aprueban nuevo Reglamento Interno del Consejo Regional de San Martín - 2011 | 1 | 2011-10-29 to 2011-10-29 |
+| `ordenanza-regional-018-2011-grsm-cr` | Ordenanza Regional N° 018-2011-GRSM/CR: Derogan Ordenanza N° 029-2008-GRSM/CR y crean el Comité Consultivo Regional de Turismo de San Martín | 1 | 2011-10-16 to 2011-10-16 |
+| `ordenanza-regional-016-2011-grsm-cr` | Ordenanza Regional N° 016-2011-GRSM/CR: Aprueban el "Plan Regional de Igualdad de Oportunidades (PRIO) 2011-2015" | 1 | 2011-09-11 to 2011-09-11 |
 
-The build made 214 commits:
+The build made 262 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 214 | first version of an act |
+| 262 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 214 laws in the record.
-- 428 tags.
+- 262 laws in the record.
+- 524 tags.
 
 ## Dates
 
@@ -258,7 +306,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `22bded3d73a0dd1e02f4ab6a70f577e47fcbd0a272accf70d16cd2f14ef54a54` (3376392 bytes).
+- Corpus: sha256 `b78e87c4680f7f4fcc2241f083a76c59296d18c4551da7045341759ca61330e4` (3983863 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 

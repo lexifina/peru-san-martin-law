@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-214 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+262 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -230,6 +230,54 @@ para las Personas Adultas Mayores en el ámbito del Gobierno Regional San Martí
 | `ordenanza-regional-031-2014-grsm-cr/` | Ordenanza Regional N° 031-2014-GRSM/CR: Declaran como prioridad regional la elaboración de la Zonificación y el Ordenamiento Forestal en el Departamento de San … | in force 30 May 2015 |
 | `ordenanza-regional-003-2015-grsm-cr/` | Ordenanza Regional N° 003-2015-GRSM/CR: Aprueban el inicio del proceso de Planeamiento Estratégico del Gobierno Regional de San Martín,  para la reformulación d… | in force 30 May 2015 |
 | `ordenanza-regional-033-2014-grsm-cr/` | Ordenanza Regional N° 033-2014-GRSM/CR: Aprueban la "Guía para la Elaboración de Planes de Vida en Comunidades Nativas" | in force 5 May 2015 |
+| `ordenanza-regional-028-2014-grsm-cr/` | Ordenanza Regional N° 028-2014-GRSM/CR: Aprueban los lineamientos e iniciativas de gestión que complementan la Política Territorial Regional de San Martín | in force 1 May 2015 |
+| `ordenanza-regional-030-2014-grsm-cr/` | Ordenanza Regional N° 030-2014-GRSM/CR: Crean e implementan el Sistema Regional de Retribución  por Servicios Ecosistémicos (SIRRSE-SM) | in force 1 May 2015 |
+| `ordenanza-regional-026-2014-grsm-cr/` | Ordenanza Regional N° 026-2014-GRSM/CR: Aprueban las Prioridades Regionales de Investigación para la Salud, 2015 - 2021 | in force 1 May 2015 |
+| `ordenanza-regional-024-2014-grsm-cr/` | Ordenanza Regional N° 024-2014-GRSM/CR: Aprueban el  Plan Regional de Acuicultura (PRA) de la Región San Martín para el periodo 2014-2023 | in force 1 May 2015 |
+| `ordenanza-regional-001-2015-grsm-cr/` | Ordenanza Regional N° 001-2015-GRSM/CR: Aprueban el Cuadro de Asignación de Personal  Provisional - CAP de Unidades Ejecutoras de Salud del Gobierno Regional de… | in force 1 May 2015 |
+| `ordenanza-regional-002-2015-grsm-cr/` | Ordenanza Regional N° 002-2015-GRSM/CR: Instituyen como símbolo regional al Escudo del Departamento de San Martín | in force 3 April 2015 |
+| `ordenanza-regional-015-2013-grsm-cr/` | Ordenanza Regional N° 015-2013-GRSM/CR: Disponen se exijan la certificación de origen expedida por la Dirección Ejecutiva de Administración y Conservación de Re… | in force 19 December 2013 |
+| `ordenanza-regional-014-2013-grsm-cr/` | Ordenanza Regional N° 014-2013-GRSM/CR: Establecen que el Gobierno Regional de San Martín es el órgano competente para otorgar Certificación Ambiental de manera… | in force 2 November 2013 |
+| `ordenanza-regional-012-2013-grsm-cr/` | Ordenanza Regional N° 012-2013-GRSM/CR: Declaran de interés y necesidad pública, la vigilancia, prevención y control del Dengue en el ámbito de la Región San Ma… | in force 26 July 2013 |
+| `ordenanza-regional-011-2013-grsm-cr/` | Ordenanza Regional N° 011-2013-GRSM/CR: Declaran de interés priotario y público la promoción del acceso de adolescentes y jóvenes a los servicios de atención in… | in force 12 July 2013 |
+| `ordenanza-regional-009-2013-grsm-cr/` | Ordenanza Regional N° 009-2013-GRSM/CR: Aprueban inicio y Reglamento del Proceso de Presupuesto Participativo basado en Resultados para el Año Fiscal 2014 de la… | in force 11 June 2013 |
+| `ordenanza-regional-008-2013-grsm-cr/` | Ordenanza Regional N° 008-2013-GRSM/CR: Aprueban Reglamento para Elección de Representantes de las Organizaciones de la Sociedad Civil ante el Consejo de Coordi… | in force 7 May 2013 |
+| `ordenanza-regional-007-2013-grsm-cr/` | Ordenanza Regional N° 007-2013-GRSM/CR: Aprueban nombre de la Mancomunidad Regional "Amazonas - San Martín - La Libertad - Cajamarca" como "Mancomunidad Regiona… | in force 15 April 2013 |
+| `ordenanza-regional-005-2013-grsm-cr/` | Ordenanza Regional N° 005-2013-GRSM/CR: Institucionalizan la Transversalización del Enfoque de Género en todas las áreas y en todos los proceso de gestión del G… | in force 15 April 2013 |
+| `ordenanza-regional-004-2013-grsm-cr/` | Ordenanza Regional N° 004-2013-GRSM/CR: Constituyen la Red Regional de Lucha contra la Trata de Personas en la Región San Martín | in force 15 April 2013 |
+| `ordenanza-regional-003-2013-grsm-cr/` | Ordenanza Regional N° 003-2013-GRSM/CR: Aprueban Reglamento de Organización y Funciones y Cuadro para Asignación de Personal del Gobierno Regional de San Martín | in force 7 April 2013 |
+| `ordenanza-regional-021-2012-grsm-cr/` | Ordenanza Regional N° 021-2012-GRSM/CR: Aprueban modificación del Cuadro para Asignación de Personal - CAP del Programa de Desarrollo Agroambiental en la Ceja d… | in force 16 March 2013 |
+| `ordenanza-regional-024-2012-grsm-cr/` | Ordenanza Regional N° 024-2012-GRSM/CR: Aprueban el "Código de Ética del Consejo Regional de San Martín" | in force 24 February 2013 |
+| `ordenanza-regional-002-2013-grsm-cr/` | Ordenanza Regional N° 002-2013-GRSM/CR: Aprueban actualización del "Plan Vial Departamental Participativo 2012 - 2021 de la Región San Martín" | in force 24 February 2013 |
+| `ordenanza-regional-023-2012-grsm-cr/` | Ordenanza Regional N° 023-2012-GRSM/CR: Aprueban Plan Regional de Operaciones de Emergencia - PROE 2012 - 2014, elaborado por la Dirección Regional de Defensa N… | in force 24 February 2013 |
+| `ordenanza-regional-020-2012-grsm-cr/` | Ordenanza Regional N° 020-2012-GRSM/CR: Disponen reconocer a la Comisión Ambiental Regional de San Martín CAR-SM como ente encargado de coordinar y concertar lo… | in force 24 February 2013 |
+| `ordenanza-regional-001-2013-grsm-cr/` | Ordenanza Regional N° 001-2013-GRSM/CR: Aprueban la Memoria Anual 2011 del Gobierno Regional | in force 24 February 2013 |
+| `ordenanza-regional-022-2012-grsm-cr/` | Ordenanza Regional N° 022-2012-GRSM/CR: Modifican Texto Único de Procedimientos Administrativos de la Dirección Regional de Energía y Minas de San Martín | in force 14 January 2013 |
+| `ordenanza-regional-019-2012-grsm-cr/` | Ordenanza Regional N° 019-2012-GRSM/CR: Aprueban Plan de Acción Regional de las Personas con Discapacidad de la Región San Martín 2011 - 2014 | in force 14 January 2013 |
+| `ordenanza-regional-017-2012-grsm-cr/` | Ordenanza Regional N° 017-2012-GRSM/CR: Derogan la Ordenanza N° 039-2010-GRSM/CR y reiteran el compromiso de impulsar la construcción del Centro Cultural Region… | in force 17 December 2012 |
+| `ordenanza-regional-018-2012-grsm-cr/` | Ordenanza Regional N° 018-2012-GRSM/CR: Disponen creación y funcionamiento de la Mesa Regional por la Participación y Desarrollo inclusivo de las Personas con D… | in force 9 December 2012 |
+| `ordenanza-regional-015-2012-grsm-cr/` | Ordenanza Regional N° 015-2012-GRSM/CR: Aprueban la Política Territorial Regional de San Martín | in force 9 December 2012 |
+| `ordenanza-regional-016-2012-grsm-cr/` | Ordenanza Regional N° 016-2012-GRSM/CR: Aprueban el Cuadro para Asignación de Personal - CAP del Gobierno Regional | in force 2 November 2012 |
+| `ordenanza-regional-014-2012-grsm-cr/` | Ordenanza Regional N° 014-2012-GRSM/CR: Aprueban modificaciones al Estatuto de la Mancomunidad Regional Amazonas - San Martín - La Libertad - Cajamarca | in force 29 September 2012 |
+| `ordenanza-regional-013-2012-grsm-cr/` | Ordenanza Regional N° 013-2012-GRSM/CR: Aprueban modificación del Cuadro de Asignación de Personal - CAP de la Red de Servicios de Salud Rioja | in force 21 September 2012 |
+| `ordenanza-regional-010-2012-grsm-cr/` | Ordenanza Regional N° 010-2012-GRSM/CR: Modifican la Ordenanza N° 032-2010-GRSM/CR | in force 9 August 2012 |
+| `ordenanza-regional-012-2012-grsm-cr/` | Ordenanza Regional N° 012-2012-GRSM/CR: Aprueban modificación del Cuadro de Asignación de Personal - CAP de la Oficina Zonal Huallaga Central - Juanjui del Gobi… | in force 29 July 2012 |
+| `ordenanza-regional-008-2009-grsm-cr/` | Ordenanza Regional N° 008-2009-GRSM/CR: Declaran de necesidad e interés regional la implementación del Ordenamiento Territorial de la Región San Martín y aprueb… | in force 16 June 2012 |
+| `ordenanza-regional-004-2012-grsm-cr/` | Ordenanza Regional N° 004-2012-GRSM/CR: Aprueban inicio del proceso de actualización y/o formulación del Plan Estratégico de Desarrollo Regional Concertado San … | in force 11 May 2012 |
+| `ordenanza-regional-005-2012-grsm-cr/` | Ordenanza Regional N° 005-2012-GRSM/CR: Aprueban inicio y Reglamento del Proceso de Presupuesto Participativo 2013 | in force 8 May 2012 |
+| `ordenanza-regional-003-2012-grsm-cr/` | Ordenanza Regional N° 003-2012-GRSM/CR: Aprueban el TUPA del Gobierno Regional de San Martín | in force 8 May 2012 |
+| `ordenanza-regional-014-2011-grsm-cr/` | Ordenanza Regional N° 014-2011-GRSM/CR: Aprueban denominar a la provincia de Tocache, departamento de San Martín como "Capital Mundial del Cacao Aromático" | in force 30 April 2012 |
+| `ordenanza-regional-001-2012-grsm-cr/` | Ordenanza Regional N° 001-2012-GRSM/CR: Aprueban Plan Estratégico Institucional del Gobierno Regional de San Martín 2011-2014 | in force 30 April 2012 |
+| `ordenanza-regional-029-2011-grsm-cr/` | Ordenanza Regional N° 029-2011-GRSM/CR: Modifican Ordenanza N° 018-2011-GRSM/CR mediante la cual se crea el Comité Consultivo Regional de Turismo de San Martín | in force 3 March 2012 |
+| `ordenanza-regional-030-2011-grsm-cr/` | Ordenanza Regional N° 030-2011-GRSM/CR: Validan acuerdos adoptados en la "VI Asamblea de la Mancomunidad Regional Amazonas - San Martín - La Libertad - Cajamarc… | in force 2 March 2012 |
+| `ordenanza-regional-031-2011-grsm-cr/` | Ordenanza Regional N° 031-2011-GRSM/CR: Aprueban TUPA 2012 de las Direcciones Ejecutivas de Gestión Estratégica Ambiental y Administración y Conservación de Rec… | in force 14 January 2012 |
+| `ordenanza-regional-024-2011-grsm-cr/` | Ordenanza Regional N° 024-2011-GRSM/CR: Modifican la Guía de Servicios 2010 de la Dirección Regional de Transportes y Comunicaciones de San Martín | in force 28 November 2011 |
+| `ordenanza-regional-027-2011-grsm-cr/` | Ordenanza Regional N° 027-2011-GRSM/CR: Aprueban la constitución de la Mancomunidad Regional Amazonas - San Martín - La Libertad - Cajamarca | in force 28 November 2011 |
+| `ordenanza-regional-023-2011-grsm-cr/` | Ordenanza Regional N° 023-2011-GRSM/CR: Actualizan el Texto Único de Procedimientos Administrativos de la Dirección Regional de Transportes y Comunicaciones de … | in force 28 November 2011 |
+| `ordenanza-regional-004-2011-grsm-cr/` | Ordenanza Regional N° 004-2011-GRSM/CR: Declaran como Institución Educativa Emblemática a la Institución Educativa "Santo Toribio" | in force 6 November 2011 |
+| `ordenanza-regional-025-2011-grsm-cr/` | Ordenanza Regional N° 025-2011-GRSM/CR: Derogan Ordenanza N° 029-2009-GRSM/CR y aprueban nuevo Reglamento Interno del Consejo Regional de San Martín - 2011 | in force 29 October 2011 |
+| `ordenanza-regional-018-2011-grsm-cr/` | Ordenanza Regional N° 018-2011-GRSM/CR: Derogan Ordenanza N° 029-2008-GRSM/CR y crean el Comité Consultivo Regional de Turismo de San Martín | in force 16 October 2011 |
+| `ordenanza-regional-016-2011-grsm-cr/` | Ordenanza Regional N° 016-2011-GRSM/CR: Aprueban el "Plan Regional de Igualdad de Oportunidades (PRIO) 2011-2015" | in force 11 September 2011 |
 
 ## Source
 
