@@ -1,5 +1,7 @@
 # San Martín: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of San Martín, Peru, which global-law reads at `peru/san-martin/acts/`.
+
 The regional ordinances (ordenanzas regionales) of the Consejo Regional of the San Martín region of Peru (Gobierno Regional de San Martín), as a git history: one folder per ordinance, one file per article, one commit per ordinance on the day it took effect.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `pe-sam/`. Peru's national law is in [lexifina/peru-law](https://github.com/lexifina/peru-law).
